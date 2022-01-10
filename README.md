@@ -18,10 +18,7 @@ NOTE: While members are assigned specific roles, we all work together on each pa
 
 ## Communication Protocol:
 
-
-<img width="600" alt="TeamCharter" src="https://user-images.githubusercontent.com/89538802/148794116-42da9251-0e68-4fed-b68e-04fa92b35669.PNG">
-
-
+![TeamCharter](https://user-images.githubusercontent.com/89538802/148812468-c7801bbe-293c-4b1b-8f22-d4463a74a7c8.PNG)
 
 ## **Selected Topic : The Sunshine List - is it still relavent?**
 
