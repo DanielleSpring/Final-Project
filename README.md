@@ -80,7 +80,7 @@ Technologies Used  ---replace with graphic listing tools, languages, libraries, 
 
 
 ## **Data Exploration Phase:**
-ETL Process  ** *insert graphic of pipeline* **
+ETL Process  *insert graphic of pipeline* **
 
 ## **Data Analysis Phase:**
 Detailed descriptions of our data analysis can be found in our presentation.
@@ -88,8 +88,10 @@ Detailed descriptions of our data analysis can be found in our presentation.
 
 
 ## **Data Sources:**
-
-
+Ontario Sunshine List: https://www.ontario.ca/page/public-sector-salary-disclosure
+Stats Canada - Wages: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401&pickMembers%5B0%5D=1.7[…]imeFrame.endYear=2021&referencePeriods=19970101%2C20210101
+Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601
+Twitter: https://developer.twitter.com/en/products/twitter-api
 
 ## **Database:**
 For our database, we will be using PostgreSQL by use of pgAdmin and we are also hosting our raw data in an AWS S3 bucket. This enables anyone with the access codes to work the project data. The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. There are three main tables with data that were used to build and perform the machine learning model.
@@ -126,7 +128,7 @@ Our dashboard will be presented with charts showing
 - Gender Gap?
 
 
-** *Insert Image of Dashboard*
+*Insert Image of Dashboard*
 
 ## **Analysis Results:**
 
