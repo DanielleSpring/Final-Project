@@ -6,9 +6,10 @@ University of Toronto Data Analytics Bootcamp Final Project
 
 | Member|Role |Responsibilities |
 |----|---|---|
-| *address* | _user | address of certificate owner |
-| *bytes32* | _hash | sha256 hash of the certificate text |
-
+| Danielle Spring | X Role | Project Manager	Manage the Project Presentation, Technology, and Communication |
+| Justin Yen | Circle Role | Database Lead	Manage the Database and ETL Process   |
+| Ben Mogil | Triangle Role | Machine Learning Lead	Manage the Machine Learning Model and Design   |
+| Shaza Safi | Square Role | Dashboard Lead	Manage the GitHub Repository and Presentation Dashboard    |
 
 ## This is the GitHub repository for our Boot Camp group's final project.
 ## Group Members:
