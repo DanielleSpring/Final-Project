@@ -7,9 +7,9 @@ University of Toronto Data Analytics Bootcamp Final Project
 | Member|Role |Responsibilities |
 |----|---|---|
 | Danielle Spring | X Role | Project Manager, Manage the Project Presentation, Technology, and Communication |
-| Justin Yen | Circle Role | Database Lead	Manage the Database and ETL Process   |
-| Ben Mogil | Triangle Role | Machine Learning Lead	Manage the Machine Learning Model and Design   |
-| Shaza Safi | Square Role | Dashboard Lead	Manage the GitHub Repository and Presentation Dashboard    |
+| Justin Yen | Circle Role | Database Lead,	Manage the Database and ETL Process   |
+| Ben Mogil | Triangle Role | Machine Learning Lead,	Manage the Machine Learning Model and Design   |
+| Shaza Safi | Square Role | Dashboard Lead,	Manage the GitHub Repository and Presentation Dashboard    |
 
 While members are assigned specific roles, we all work together on each part of the project.
 
