@@ -39,7 +39,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 - Can we identify a person’s age based on first name or postition?
 - How do civil servant salaries trend against Ontario private sector?
 - Is there Gender Inequality in Ontario’s Sunshine list?  
-- Does age play a factor? Is region a factor?
+- Does gender or age play a factor? Is region a factor?
 - Are civil servant salaries keeping up with inflation?
 - How do civil servant salaries trend against Ontario private sector?
 - Can raises, salary increases be track? Are they in proportion with inflation? who is getting raises? 
