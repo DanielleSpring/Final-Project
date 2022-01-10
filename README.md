@@ -5,7 +5,7 @@ University of Toronto Data Analytics Bootcamp Final Project
 ## Group Members:
 
 | Member            | Role          | Responsibilities                                                                  |
-|:------------- ----| ------------- |-----------------------------------------------------------------------------------|
+|:------------- ----|-------------- |-----------------------------------------------------------------------------------|
 | Danielle Spring   | X             | Project Manager	Manage the Project Presentation, Technology, and Communication    |
 | Justin Yen        | Circle        | Database Lead	Manage the Database and ETL Process                                 |
 | Ben Mogil         | Triangle      | Machine Learning Lead	Manage the Machine Learning Model and Design                |
