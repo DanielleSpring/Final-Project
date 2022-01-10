@@ -57,9 +57,10 @@ Technologies Used  ---replace with graphic listing tools, languages, libraries, 
 ### Tools:
 *AWS
 *PostgreSQL
-*Tableau
+*Tableau?
 *Jupyter Notebook
 *GitHub
+*Heroku
 
 ### Languages:
 *Python
@@ -107,9 +108,23 @@ For our database, we will be using PostgreSQL by use of pgAdmin and we are also 
 
 
 ## **Dashboard:**
-We used Tableau to create and host our dashboard. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
+We used JavaScript to create and host our dashboard using HeroKu. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
-Our dashboard can be found here, or embedded on this website we have created to present our final project.
+Our dashboard will be presented with charts showing
+- Salary trending (line chart $ by Years)
+  - Ontario Sunshine list (public sector), with avg public/private sectors(Stats Can data)
+  - filter ability based on age, gender
+
+- Salary trending (bubble chart layered onto map of Ontario)
+
+
+- Sunshine List Sentiment Analysis
+  - top twitter/ news articles (Toronto Star???)
+  - postive vs negative
+
+
+- Gender Gap?
+
 
 Image of Dashboard
 
