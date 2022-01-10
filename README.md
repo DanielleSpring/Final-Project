@@ -26,7 +26,7 @@ NOTE: While members are assigned specific roles, we all work together on each pa
 The Sunshine list is annual list includes public sector employees in Ontario who earned over $100,000 last year. The list is mandated by the Public Sector Salary Disclosure Act enacted by the Ontario government under Premier Mike Harris, with the first list released in 1996.
 
 
-<img width="409" alt="ProjectOverview" src="https://user-images.githubusercontent.com/89538802/148825148-7786e80f-84f9-486b-9803-f2403640d9dc.png">
+<img width="600" alt="ProjectOverview" src="https://user-images.githubusercontent.com/89538802/148825148-7786e80f-84f9-486b-9803-f2403640d9dc.png">
 
 
 ### Objective:
