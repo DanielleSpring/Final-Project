@@ -63,6 +63,7 @@ Technologies Used  *replace with graphic listing tools, languages, libraries, al
 ### Tools:
 *AWS
 *PostgreSQL
+*MongoDB
 *Tableau?
 *Jupyter Notebook
 *GitHub
@@ -71,7 +72,7 @@ Technologies Used  *replace with graphic listing tools, languages, libraries, al
 ### Languages:
 *Python
 *SQL
-*JavaScript
+*JavaScript, HTML
 
 ### Libraries:
 *pandas
