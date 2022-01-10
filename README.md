@@ -127,7 +127,10 @@ For our database, we will be using PostgreSQL by use of pgAdmin and we are also 
 ## **Dashboard:**
 We used JavaScript to create and host our dashboard using HeroKu. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
-Our dashboard will be presented with charts showing
+Our dashboard will be presented with charts showing:
+
+- Summary Analysis - Top Earners, Top positions, 
+
 - Salary trending (line chart $ by Years)
   - Ontario Sunshine list (public sector), with avg public/private sectors(Stats Can data)
   - filter ability based on age, gender
@@ -135,12 +138,12 @@ Our dashboard will be presented with charts showing
 - Salary trending (bubble chart layered onto map of Ontario)
 
 
-- Sunshine List Sentiment Analysis
+- Sunshine List Tweets: Sentiment Analysis
   - top twitter/ news articles (Toronto Star???)
   - postive vs negative
 
 
-- Gender Gap?
+- Gender Gap, Roles, Trends
 
 
 *Insert Image of Dashboard*
