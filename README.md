@@ -27,18 +27,19 @@ By analyzing public sector incomes for those employees who earned over $100,000 
 ## **Questions We Would Like to Answer:**
 Given the data available, can we use 25 years of data to determine whether the Ontario Sunshine list is still relevant? 
 
-	Can we identify gender using first name? 
-	Can we identify a person’s age based on first name or postition?
-	How do civil servant salaries trend against Ontario private sector?
-	Is there Gender Inequality in Ontario’s Sunshine list?  
-	Does age play a factor? Is region a factor?
-	Are civil servant salaries keeping up with inflation?
-	How do civil servant salaries trend against Ontario private sector?
-	Track raises…are they in proportion with inflation? who is getting raises? 
-	When creating ranges for salaries which sectors are highest in pay and which are lowest?
-	Which job titles are paid higher salary/lowest? 
-	When comparing job titles in certain sectors to others are they fairly equivalent or are certain sectors more generous?
-	How do people feel about the Sunshine list?
+*Can we identify gender using first name? 
+*Can we identify a person’s age based on first name or postition?
+*How do civil servant salaries trend against Ontario private sector?
+*Is there Gender Inequality in Ontario’s Sunshine list?  
+*Does age play a factor? Is region a factor?
+*Are civil servant salaries keeping up with inflation?
+*How do civil servant salaries trend against Ontario private sector?
+*Can raises, salary increases be track? Are they in proportion with inflation? who is getting raises? 
+*When creating ranges for salaries which sectors are highest in pay and which are lowest?
+*Which job titles are paid higher salary/lowest? 
+*When comparing job titles in certain sectors to others are they fairly equivalent or are certain sectors more generous?
+*How do people feel about the Sunshine list?
+*Can we analyze public sentiment concerning the sunshine list?
 
 
 *Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city.
@@ -51,10 +52,33 @@ Presentation:
 Our presentation is hosted on Google Slides, and can be found here.
 
 ## **Technologies & Tools Used:**
-Technologies Used
+Technologies Used  ---replace with graphic listing tools, languages, libraries, algorithms?
+### Tools:
+*AWS
+*PostgreSQL
+*Tableau
+*Jupyter Notebook
+*GitHub
+
+### Languages:
+*Python
+*SQL
+*JavaScript
+
+### Libraries:
+*pandas
+*Matplotlib
+*Beautisoup
+*ChromeDriverManager
+*Browser
+*random
+*nltk
+*Leaflet
+
+
 
 ## **Data Exploration Phase:**
-ETL Process
+ETL Process --insert graphic of pipeline
 
 ## **Data Analysis Phase:**
 Detailed descriptions of our data analysis can be found in our presentation.
