@@ -109,15 +109,19 @@ For our database, we will be using PostgreSQL by use of pgAdmin and we are also 
 ## **Machine Learning:**
 ### Preliminary Data Processing:
 
+- document process
 
 ### Initial Classification using Natural Language Toolkit (NLTK):
 
+- *insert model chart**
 
 ### Splitting Data Into Testing & Training sets:
 
+- describe 
+
 ### Explanation of Model Choice (Including Limitations & Benefits):
 
-
+- 
 ## **Dashboard:**
 We used JavaScript to create and host our dashboard using HeroKu. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
 
