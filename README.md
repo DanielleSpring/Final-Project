@@ -44,10 +44,13 @@ Given the data available, can we use 25 years of data to determine whether the O
 
 *Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city.
 ### Locations of Project Deliverables:
-Objective	Location
-Presentation	Link to Google Slides
-Exploratory Analysis code	GitHub Master Branch - Link to jupyter notebook file  .ipynb
-Machine Learning code and output	GitHub Master Branch - Link to a Resources folder
+
+| Objective|Location |
+|----|---|---|
+| Presentation | Link to Google Slides |
+| Exploratory Analysis | code	GitHub Master Branch - Link to jupyter notebook file  .ipynb   |
+| Machine Learning code and output | GitHub Master Branch - Link to a Resources folder   |
+
 Presentation:
 Our presentation is hosted on Google Slides, and can be found here.
 
