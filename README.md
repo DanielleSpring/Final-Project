@@ -80,7 +80,7 @@ Technologies Used  ---replace with graphic listing tools, languages, libraries, 
 
 
 ## **Data Exploration Phase:**
-ETL Process --insert graphic of pipeline
+ETL Process  ** *insert graphic of pipeline* **
 
 ## **Data Analysis Phase:**
 Detailed descriptions of our data analysis can be found in our presentation.
@@ -126,7 +126,7 @@ Our dashboard will be presented with charts showing
 - Gender Gap?
 
 
-Image of Dashboard
+** *Insert Image of Dashboard*
 
 ## **Analysis Results:**
 
