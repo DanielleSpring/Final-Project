@@ -16,7 +16,7 @@ While members are assigned specific roles, we all work together on each part of 
 ## Communication Protocol:
 
 
-<img width="500" alt="TeamCharter" src="https://user-images.githubusercontent.com/89538802/148794116-42da9251-0e68-4fed-b68e-04fa92b35669.PNG">
+<img width="600" alt="TeamCharter" src="https://user-images.githubusercontent.com/89538802/148794116-42da9251-0e68-4fed-b68e-04fa92b35669.PNG">
 
 
 
