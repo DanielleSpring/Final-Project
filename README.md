@@ -54,8 +54,8 @@ Given the data available, can we use 25 years of data to determine whether the O
 | Objective|Location |
 |----|----|
 | Presentation | Link to Google Slides |
-| Exploratory Analysis | code	GitHub Master Branch - Link to jupyter notebook file  .ipynb   |
-| Machine Learning code and output | GitHub Master Branch - Link to a Resources folder   |
+| Exploratory Analysis | *code	GitHub Master Branch - Link to jupyter notebook file  .ipynb*   |
+| Machine Learning code and output | *GitHub Master Branch - Link to a Resources folder*   |
 
 
 ## **Technologies & Tools Used:**
