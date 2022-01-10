@@ -14,7 +14,7 @@ University of Toronto Data Analytics Bootcamp Final Project
 | Ben Mogil | Triangle Role | Machine Learning Lead,	Manage the Machine Learning Model and Design   |
 | Shaza Safi | Square Role | Dashboard Lead,	Manage the GitHub Repository and Presentation Dashboard    |
 
-While members are assigned specific roles, we all work together on each part of the project.
+NOTE: While members are assigned specific roles, we all work together on each part of the project.
 
 ## Communication Protocol:
 
