@@ -25,13 +25,21 @@ The Sunshine list is annual list includes public sector employees in Ontario who
 By analyzing public sector incomes for those employees who earned over $100,000 annually from 1996 to 2020.   The list does not denote gender or age, we will predict gender and age 
 
 ## **Questions We Would Like to Answer:**
-Given the data available, can we expect housing prices to increase or decrease in the coming years?
+Given the data available, can we use 25 years of data to determine whether the Ontario Sunshine list is still relevant? 
 
-*Using demographic, income, housing price, job industries, and rent/buy ratios in a city to help come to this prediction.
-For a given city, which other US cities have similar housing and demographic data?
+	Can we identify gender using first name? 
+	Can we identify a person’s age based on first name or postition?
+	How do civil servant salaries trend against Ontario private sector?
+	Is there Gender Inequality in Ontario’s Sunshine list?  
+	Does age play a factor? Is region a factor?
+	Are civil servant salaries keeping up with inflation?
+	How do civil servant salaries trend against Ontario private sector?
+	Track raises…are they in proportion with inflation? who is getting raises? 
+	When creating ranges for salaries which sectors are highest in pay and which are lowest?
+	Which job titles are paid higher salary/lowest? 
+	When comparing job titles in certain sectors to others are they fairly equivalent or are certain sectors more generous?
+	How do people feel about the Sunshine list?
 
-*For example, if a person is working in the tech sector and is looking for a new city to move to, they will be able to see a list of cities similar to San Francisco or Austin that may not be as obvious.
-Given a city name, what pertinent information should be understood by someone looking to move to the area?
 
 *Our dashboard would allow a user to see charts of demographic data, income data, housing prices, crime, and unemployment rates, and trends over time for each city.
 ### Locations of Project Deliverables:
