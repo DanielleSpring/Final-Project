@@ -3,11 +3,14 @@ University of Toronto Data Analytics Bootcamp Final Project
 
 ## This is the GitHub repository for our Boot Camp group's final project.
 ## Group Members:
-Member	Role	Responsibilities-
-Danielle Spring |	Project Manager	Manage the Project Presentation, Technology, and Communication -
-Justin Yen | Database Lead	Manage the Database and ETL Process -
-Ben Mogil	| Machine Learning Lead	Manage the Machine Learning Model and Design -
-Shaza Safi	| Dashboard Lead	Manage the GitHub Repository and Presentation Dashboard-
+
+| Member            | Role          | Responsibilities                                                                  |
+| ------------- ----| ------------- |-----------------------------------------------------------------------------------|
+| Danielle Spring   | X             | Project Manager	Manage the Project Presentation, Technology, and Communication    |
+| Justin Yen        | Circle        | Database Lead	Manage the Database and ETL Process                                 |
+| Ben Mogil         | Triangle      | Machine Learning Lead	Manage the Machine Learning Model and Design                |
+| Shaza Safi        | Square        | Dashboard Lead	Manage the GitHub Repository and Presentation Dashboard           |
+
 While members are assigned specific roles, we all work together on each part of the project.
 
 ## **Selected Topic - The Sunshine List - is it still relavent?**
