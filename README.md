@@ -58,7 +58,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 
 
 ## **Technologies & Tools Used:**
-Technologies Used  ---replace with graphic listing tools, languages, libraries, algorithms?
+Technologies Used  *replace with graphic listing tools, languages, libraries, algorithms?*
 ### Tools:
 *AWS
 *PostgreSQL
