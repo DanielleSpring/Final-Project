@@ -2,7 +2,7 @@
 University of Toronto Data Analytics Bootcamp Final Project
 
 ## This is the GitHub repository for our Boot Camp group's final project.
-## Group Members:
+## Responsibilities Matrix:
 
 | Member|Role |Responsibilities |
 |----|---|---|
@@ -14,6 +14,11 @@ University of Toronto Data Analytics Bootcamp Final Project
 While members are assigned specific roles, we all work together on each part of the project.
 
 ## Communication Protocol:
+
+
+<img width="383" alt="TeamCharter" src="https://user-images.githubusercontent.com/89538802/148794116-42da9251-0e68-4fed-b68e-04fa92b35669.PNG">
+
+
 
 ## **Selected Topic - The Sunshine List - is it still relavent?**
 
