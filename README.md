@@ -18,11 +18,11 @@ While members are assigned specific roles, we all work together on each part of 
 ## **Selected Topic - The Sunshine List - is it still relavent?**
 
 ### Overview:
-The Sunshine list is annual list includes public sector employees in Ontario who earned over $100,000 last year. The list is mandated by the Public Sector Salary Disclosure Act enacted by the Ontario government under Mike Harris, with the first list released in 1996.
+The Sunshine list is annual list includes public sector employees in Ontario who earned over $100,000 last year. The list is mandated by the Public Sector Salary Disclosure Act enacted by the Ontario government under Premier Mike Harris, with the first list released in 1996.
 
 
 ### Objective:
-By analyzing public sector incomes for those employees who earned over $100,000 annually from 1996 to 2020.   The list does not denote gender or age, we will predict gender and age 
+By analyzing public sector incomes for those employees who earned over $100,000 annually from 1996 to 2020, we seek to determine if the yearly publication still has relevance.  We will review public sentiment through twitter and news feeds, in addition to, analyzing the data for trends based on salaries, gender, regions (urban vs rural), position to determine relevnacy.  The list does not denote gender or age, so we will use machine learning tools to predict gender and age. 
 
 ## **Questions We Would Like to Answer:**
 Given the data available, can we use 25 years of data to determine whether the Ontario Sunshine list is still relevant? 
