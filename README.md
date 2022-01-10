@@ -1,6 +1,14 @@
 # **Sunshine List:**  Is it still relavent?
 University of Toronto Data Analytics Bootcamp Final Project
 
+Inputs
+
+| type|name |description |
+|----|---|---|
+| *address* | _user | address of certificate owner |
+| *bytes32* | _hash | sha256 hash of the certificate text |
+
+
 ## This is the GitHub repository for our Boot Camp group's final project.
 ## Group Members:
 
