@@ -4,7 +4,7 @@ University of Toronto Data Analytics Bootcamp Final Project
 ## This is the GitHub repository for our Boot Camp group's final project.
 ## Group Members:
 
-| Member            | Role          | Responsibilities                                                                  |
+|Member             |Role           |Responsibilities                                                                  |
 |:------------- ----|-------------- |-----------------------------------------------------------------------------------|
 | Danielle Spring   | X             | Project Manager	Manage the Project Presentation, Technology, and Communication    |
 | Justin Yen        | Circle        | Database Lead	Manage the Database and ETL Process                                 |
