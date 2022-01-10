@@ -4,6 +4,7 @@ University of Toronto Data Analytics Bootcamp Final Project
 ## This is the GitHub repository for our Boot Camp group's final project.
 ## Group Members:
 
+
 |Member             |Role           |Responsibilities                                                                  |
 |:------------- ----|-------------- |----------------------------------------------------------------------------------|
 
