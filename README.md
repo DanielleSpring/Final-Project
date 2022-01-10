@@ -105,6 +105,8 @@ Twitter: https://developer.twitter.com/en/products/twitter-api
 ## **Database:**
 For our database, we will be using PostgreSQL by use of pgAdmin and we are also hosting our raw data in an AWS S3 bucket. This enables anyone with the access codes to work the project data. The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. There are three main tables with data that were used to build and perform the machine learning model.
 
+*insert ERD*
+
 
 ## **Machine Learning:**
 ### Preliminary Data Processing:
