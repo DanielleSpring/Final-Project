@@ -80,7 +80,8 @@ Technologies Used  ---replace with graphic listing tools, languages, libraries, 
 
 
 ## **Data Exploration Phase:**
-ETL Process  *insert graphic of pipeline* **
+ETL Process 
+*insert graphic of pipeline*
 
 ## **Data Analysis Phase:**
 Detailed descriptions of our data analysis can be found in our presentation.
