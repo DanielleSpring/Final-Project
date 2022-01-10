@@ -20,7 +20,7 @@ While members are assigned specific roles, we all work together on each part of 
 
 
 
-## **Selected Topic - The Sunshine List - is it still relavent?**
+## **Selected Topic : The Sunshine List - is it still relavent?**
 
 ### Overview:
 The Sunshine list is annual list includes public sector employees in Ontario who earned over $100,000 last year. The list is mandated by the Public Sector Salary Disclosure Act enacted by the Ontario government under Premier Mike Harris, with the first list released in 1996.
