@@ -143,7 +143,7 @@ Our dashboard will be presented with charts showing:
 
 
 - Sunshine List Tweets: Sentiment Analysis
-  - top twitter/ news articles (Toronto Star???)
+  - top twitter comments
   - postive vs negative
 
 
