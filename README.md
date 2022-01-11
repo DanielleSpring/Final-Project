@@ -105,7 +105,9 @@ Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=
 Twitter: https://developer.twitter.com/en/products/twitter-api
 
 ## **Database:**
-For our database, we will be using PostgreSQL by use of pgAdmin and we are also hosting our raw data in an AWS S3 bucket. This enables anyone with the access codes to work the project data. The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. There are three main tables with data that were used to build and perform the machine learning model.
+For our database, we will be using both PostgreSQL and MongoDB.  We will be hosting our raw data using Heroku. This enables anyone with the access codes to work the project data. 
+
+The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. The first name column from the Sunshine list will be used for our machine learning model.
 
 *insert ERD*
 
@@ -127,7 +129,7 @@ For our database, we will be using PostgreSQL by use of pgAdmin and we are also 
 
 - 
 ## **Dashboard:**
-We used JavaScript to create and host our dashboard using HeroKu. It will be directly tied to our Postgres database hosted on AWS via a direct connection.
+We used JavaScript to create and host our dashboard using HeroKu. It will be directly tied to our Postgres database hosted on Heroku via a direct connection.
 
 Our dashboard will be presented with charts showing:
 
