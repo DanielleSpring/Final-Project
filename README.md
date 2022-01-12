@@ -60,13 +60,12 @@ Given the data available, can we use 25 years of data to determine whether the O
 ## **Technologies & Tools Used:**
 Technologies Used  *replace with graphic listing tools, languages, libraries, algorithms?*
 ### Tools:
-*AWS
-*PostgreSQL
-*MongoDB
-*Tableau?
+*PostgreSQL used to house the Sunshine list and Statistics Canada data
+*MongoDB used to house the twitter feed data
+*Tableau used to display Dashboard
 *Jupyter Notebook
-*GitHub
-*Heroku
+*GitHub 
+*Heroku used for hosting
 
 ### Languages:
 *Python
@@ -82,6 +81,7 @@ Technologies Used  *replace with graphic listing tools, languages, libraries, al
 *random
 *nltk
 *Leaflet
+*Css
 
 
 
@@ -106,13 +106,14 @@ Twitter: https://developer.twitter.com/en/products/twitter-api
 ## **Database:**
 For our database, we will be using both PostgreSQL and MongoDB.  We will be hosting our raw data using Heroku. This enables anyone with the access codes to work the project data. 
 
-The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. The first name column from the Sunshine list will be used for our machine learning model.
+The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. 
 
 *insert ERD*
 
 
 ## **Machine Learning:**
 ### Preliminary Data Processing:
+The first name column from the Sunshine list will be used for our machine learning model.
 
 - document process
 
@@ -128,7 +129,7 @@ The image below represents the tables of data that are uploaded onto the databas
 
 - 
 ## **Dashboard:**
-We used JavaScript to create and host our dashboard using HeroKu. It will be directly tied to our Postgres database hosted on Heroku via a direct connection.
+We will use Tableau to create our Dashboard and use HeroKu to host it. It will be directly tied to our PostgreSQL and MongoDb database.
 
 Our dashboard will be presented with charts showing:
 
