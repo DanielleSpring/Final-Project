@@ -95,7 +95,8 @@ Detailed descriptions of our data analysis can be found in our presentation.
 
 
 ## **Data Sources:**
-Ontario Sunshine List: https://www.ontario.ca/page/public-sector-salary-disclosure
+Ontario Sunshine List for 20202: https://www.ontario.ca/page/public-sector-salary-disclosure
+kaggle Ontario Sunshine List 1996 to 2019 consolided raw data file : https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list
 
 Stats Canada - Wages: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401&pickMembers%5B0%5D=1.7[…]imeFrame.endYear=2021&referencePeriods=19970101%2C20210101
 
