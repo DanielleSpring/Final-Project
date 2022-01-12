@@ -88,7 +88,7 @@ Technologies Used  *replace with graphic listing tools, languages, libraries, al
 ## **Data Exploration Phase:**
 ETL Process 
 
-![ETL](https://user-images.githubusercontent.com/89538802/149177931-972eecfb-cb70-4008-a97a-382d0f856cc7.PNG)
+<img width="572" alt="ETL" src="https://user-images.githubusercontent.com/89538802/149178924-a6203e1c-715f-4c9f-b7f7-9b32659f2593.PNG">
 
 
 ## **Data Analysis Phase:**
