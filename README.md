@@ -86,17 +86,12 @@ Technologies Used  *replace with graphic listing tools, languages, libraries, al
 
 
 ## **Data Exploration Phase:**
-ETL Process 
+### ETL Process 
 
 <img width="572" alt="ETL" src="https://user-images.githubusercontent.com/89538802/149178924-a6203e1c-715f-4c9f-b7f7-9b32659f2593.PNG">
 
-
-## **Data Analysis Phase:**
-Detailed descriptions of our data analysis can be found in our presentation.
-
-
-
-## **Data Sources:**
+### Extract
+#### **Data Sources:**
 Ontario Sunshine List for 20202: https://www.ontario.ca/page/public-sector-salary-disclosure
 kaggle Ontario Sunshine List 1996 to 2019 consolided raw data file : https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list
 
@@ -106,7 +101,18 @@ Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=
 
 Twitter: https://developer.twitter.com/en/products/twitter-api
 
-## **Database:**
+### Transfrom
+#### Data Cleansing
+- *insert detailed steps to datacleansing*
+
+#### **Data Analysis Phase:**
+Detailed descriptions of our data analysis can be found in our presentation.
+
+
+
+
+
+### **Database:**
 For our database, we will be using both PostgreSQL and MongoDB.  We will be hosting our raw data using Heroku. This enables anyone with the access codes to work the project data. 
 
 The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. 
