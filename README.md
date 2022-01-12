@@ -111,7 +111,7 @@ For our database, we will be using both PostgreSQL and MongoDB.  We will be host
 The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database. 
 
 
-<img width="300" alt="ERD pgerd" src="https://user-images.githubusercontent.com/89538802/149167141-255e1c91-4b0e-4f78-8fe1-75afccafc27d.png">
+<img width="200" alt="ERD pgerd" src="https://user-images.githubusercontent.com/89538802/149167141-255e1c91-4b0e-4f78-8fe1-75afccafc27d.png">
 *Reco using different software for ERD--the SQL one is not pretty*
 
 ## **Machine Learning:**
