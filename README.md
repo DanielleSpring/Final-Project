@@ -27,7 +27,7 @@ The Sunshine list is annual list includes public sector employees in Ontario who
 ### Objective:
 By analyzing public sector incomes for those employees who earned over $100,000 annually from 1996 to 2020, we seek to determine if the yearly publication still has relevance.  We will review public sentiment through twitter and news feeds, in addition to, analyzing the data for trends based on salaries, gender, regions (urban vs rural), position to determine relevnacy.  The list does not denote gender or age, so we will use machine learning tools to predict gender and age. 
 
-<img width="600" alt="ProjectOverview" src="https://user-images.githubusercontent.com/89538802/148825148-7786e80f-84f9-486b-9803-f2403640d9dc.png">
+![ProjectOverview_v1](https://user-images.githubusercontent.com/89538802/149169406-e4e8e101-9d9e-49c8-aa2c-3290f08e3e93.png)
 
 ## **Questions We Would Like to Answer:**
 Given the data available, can we use 25 years of data to determine whether the Ontario Sunshine list is still relevant? 
