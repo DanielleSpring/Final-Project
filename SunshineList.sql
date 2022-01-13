@@ -1,15 +1,17 @@
--- Create sunshine table
+-- Create sunshine table from Clean File
+--	first_name_clean	salary_paid	taxable_benefits
 CREATE TABLE sunshine_table (
-  unique_id TEXT PRIMARY KEY NOT NULL UNIQUE,
-  sector TEXT,
-  last_first TEXT,	
-  last_name TEXT,
-  first_name TEXT,
+  --unique_id TEXT PRIMARY KEY NOT NULL UNIQUE,
+  year INTEGER,
+  sector VARCHAR,
+  employer VARCHAR,
+  job_title VARCHAR,
+  last_first_name VARCHAR,
+  last_name VARCHAR,
+  first_name VARCHAR,
+  first_name_clean VARCHAR,
   salary_paid INTEGER,
-  tax_benefit INTEGER,
-  employer TEXT,
-  job_title TEXT,
-  calendar_year DATE	
+  taxable_benefits INTEGER  
 );
 
 -- Create Gender Table for first data set
@@ -45,6 +47,35 @@ CREATE TABLE cpi_table (
   value INTEGER
  );
 
+
+-- Create table to hold raw data for CPI table from Stats Can
+CREATE TABLE statscan_cpi (
+	REF_DATE INTEGER PRIMARY KEY,
+	GEO VARCHAR,
+	DGUID VARCHAR,
+	Products_and_product_groups VARCHAR,
+	UOM VARCHAR,
+	UOM_ID VARCHAR,
+	SCALAR_FACTOR VARCHAR,
+	SCALAR_ID VARCHAR,
+	VECTOR VARCHAR,
+	COORDINATE VARCHAR,
+	VALUE VARCHAR,
+	STATUS VARCHAR,
+	SYMBOL VARCHAR,
+	TERMINATED VARCHAR,
+	DECIMALS INT
+)
+
+
+--Import data
+COPY statscan_cpi
+FROM 'OntarioCPI_databaseLoadingData.csv' DELIMITER ',' csv HEADER
+;
+
+COPY statscan_cpi (REF_DATE, GEO, DGUID,Products_and_product_groups, UOM, UOM_ID,SCALAR_FACTOR, SCALAR_ID, VECTOR, COORDINATE, VALUE, STATUS, SYMBOL, TERMINATED, DECIMALS   ) FROM 'OntarioCPI_databaseLoadingData.csv' CSV HEADER DELIMITER ',';
+
+
 --Delete tables for testing purposes
 DELETE FROM sunshine_table;
 DELETE FROM gender_table;
@@ -60,4 +91,5 @@ SELECT * FROM age_table;
 SELECT * FROM gender_title_table;
 SELECT * FROM ontario_wage_table;
 SELECT * FROM cpi_table;
+SELECT * FROM statscan_cpi;
 
