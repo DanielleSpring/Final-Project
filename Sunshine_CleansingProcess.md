@@ -1,5 +1,5 @@
 # **Cleansing Requirements for Sunshine Kaggle List**
-## First Name column Cleansing
+## First Name Column Cleansing
 An aggregated unique list of first names will be generated from the "First Name" column.  The data in this column will be used to identify gender in our Machine Learning Model.  Extensive cleansing is needed, as this list is a culmination of data from 1996 to 2019 consolidated from several agencies and organizations which fall under the umbrella of public service in Ontario.
 
 The following steps have been used to come up with a list of unique first names:
@@ -56,3 +56,6 @@ The following steps have been used to come up with a list of unique first names:
             "*.*"
             
             "*-*"
+
+
+## Job Title Column Cleansing
