@@ -105,14 +105,16 @@ Twitter: https://developer.twitter.com/en/products/twitter-api
 
 #### 2) Transfrom
 
-In order to import the cleansed CSV files, you must do the following steps:
+In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:
 
 ##### **Sunshine List**
-    1) Make sure that CSV dataset have the same number of columns as the sQL tables
-    2) Make sure all columns have identical data types CSV=SQL
+    1) Append 2020 Ontario Sunshine list to consolidated kaggle Sunshine list dataset (1996-2019)
+    2) Initiate cleansing procedure documented  *insert link to detailed cleasing procedure*
+    3) Make sure that CSV dataset have the same number of columns as the sQL tables
+    4) Make sure all columns have identical data types CSV=SQL
         a) Salary and Taxible Benefits must be FLOAT64
         b) Year must be INTEGER
-    3) You will receive a an error for line 54113, column G - Manually remove the single ' around the A in the CSV
+    5) You may receive a an error for line 54113, column G - Manually remove the single ' around the A in the CSV
     
 ##### **Ontario Wages - Stats Canada**
 Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
@@ -124,23 +126,19 @@ Datasets in the forms of CSV were pulled from Statistics Canada using the follow
     - Sexes:  Male and Female
     - Age Group:  25 to 54 years and >55 years old
     
-    
-* Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.  
+    Definitions:
+    - Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.
+    - NOC stands for National Occupational Classification
 
-NOTE: CSV for Database Loading were used for downloads.*
+    NOTE: CSV for Database Loading were used for downloads.
+ 
+ In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:   
+   *detail steps of cleansing required*
 
 
 ##### **CPI - Stats Canada**
-
-
-
-##### Data Cleansing
-- *insert detailed steps to datacleansing*
-
-##### **Data Analysis Phase:**
-Detailed descriptions of our data analysis can be found in our presentation.
-
-
+In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:   
+   *detail steps of cleansing required*
 
 
 #### 3) Load
@@ -151,6 +149,12 @@ The image below represents the tables of data that are uploaded onto the databas
 
 <img width="200" alt="ERD pgerd" src="https://user-images.githubusercontent.com/89538802/149167141-255e1c91-4b0e-4f78-8fe1-75afccafc27d.png">
 *Reco using different software for ERD--the SQL one is not pretty*
+
+
+
+### **Data Analysis Phase:**
+Detailed descriptions of our data analysis can be found in our presentation.
+
 
 ## **Machine Learning:**
 ### Preliminary Data Processing:
@@ -198,3 +202,9 @@ Our dashboard will be presented with charts showing:
 
 
 ## **Recommendations for Future Analysis:**
+
+
+
+
+
+## **Citations:**
