@@ -97,7 +97,7 @@ Ontario Sunshine List for 20202: https://www.ontario.ca/page/public-sector-salar
 
 kaggle Ontario Sunshine List 1996 to 2019 consolided raw data file : https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list
 
-Stats Canada - Wages: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401&pickMembers%5B0%5D=1.7[…]imeFrame.endYear=2021&referencePeriods=19970101%2C20210101
+Stats Canada - Employee wages by occupation, annual: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034001
 
 Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601
 
@@ -106,6 +106,7 @@ Twitter: https://developer.twitter.com/en/products/twitter-api
 #### 2) Transfrom
 
 In order to import the cleansed CSV files, you must do the following steps:
+
 ##### **Sunshine List**
     1) Make sure that CSV dataset have the same number of columns as the sQL tables
     2) Make sure all columns have identical data types CSV=SQL
@@ -114,7 +115,18 @@ In order to import the cleansed CSV files, you must do the following steps:
     3) You will receive a an error for line 54113, column G - Manually remove the single ' around the A in the CSV
     
 ##### **Ontario Wages - Stats Canada**
+Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
+    - Geography: Ontario
+    - Wages: Average Weekly Wage
+    - Reference Period: 1997 to 2021
+    - Type of Work: Full Time*
+    - Sexes:  Male and Female
+    - Age Group:  25 to 54 years and >55 years old
+    
+    
+* Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.  
 
+NOTE: CSV for Database Loading were used for downloads.*
 
 
 ##### **CPI - Stats Canada**
