@@ -104,6 +104,23 @@ Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=
 Twitter: https://developer.twitter.com/en/products/twitter-api
 
 #### 2) Transfrom
+
+In order to import the cleansed CSV files, you must do the following steps:
+##### **Sunshine List**
+    1) Make sure that CSV dataset have the same number of columns as the sQL tables
+    2) Make sure all columns have identical data types CSV=SQL
+        a) Salary and Taxible Benefits must be FLOAT64
+        b) Year must be INTEGER
+    3) You will receive a an error for line 54113, column G - Manually remove the single ' around the A in the CSV
+    
+##### **Ontario Wages - Stats Canada**
+
+
+
+##### **CPI - Stats Canada**
+
+
+
 ##### Data Cleansing
 - *insert detailed steps to datacleansing*
 
