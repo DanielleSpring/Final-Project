@@ -116,6 +116,7 @@ In order to import the cleansed CSV files, you must do the following steps:
     
 ##### **Ontario Wages - Stats Canada**
 Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
+
     - Geography: Ontario
     - Wages: Average Weekly Wage
     - Reference Period: 1997 to 2021
