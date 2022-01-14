@@ -160,13 +160,29 @@ The image below represents the tables of data that are uploaded onto the databas
 Detailed descriptions of our data analysis can be found in our presentation.
 
 
-## **Machine Learning:**
+## **Machine Learning: Gender Identification**
 ### Preliminary Data Processing:
 The first name column from the Sunshine list will be used for our machine learning model.
 
 - document process
 
 ### Initial Classification using Natural Language Toolkit (NLTK):
+
+- *insert model chart**
+
+### Splitting Data Into Testing & Training sets:
+
+- describe 
+
+### Explanation of Model Choice (Including Limitations & Benefits):
+
+## **Machine Learning: Sentiment**
+### Preliminary Data Processing:
+
+
+- document process
+
+### Initial Classification - to be determined
 
 - *insert model chart**
 
