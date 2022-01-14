@@ -48,11 +48,12 @@ Given the data available, can we use 25 years of data to determine whether the O
 
 
 
-### Locations of Project Deliverables:
+### Locations of Project Deliverables for Segment 1:
 
 | Objective|Location |
 |----|----|
 | Presentation | Link to Google Slides |
+| Database Integration | *code to GitHub Master Branch - Link to jupyter notebook and SQL files |
 | Exploratory Analysis | *code	GitHub Master Branch - Link to jupyter notebook file  .ipynb*   |
 | Machine Learning code and output | *GitHub Master Branch - Link to a Resources folder*   |
 
