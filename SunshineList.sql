@@ -1,3 +1,17 @@
+-- Testing importing of Json file
+-- Sector	Last name	First name	Salary	Benefits	Employer	Job title	Year
+CREATE TABLE sunshine_table_test (
+  Sector VARCHAR,
+  Last_name	VARCHAR,
+  First_name VARCHAR, 
+  Salary INT,
+  Benefits INT,
+  Employer VARCHAR,
+  Job_title	VARCHAR,
+  Year DATE   
+);
+
+
 -- Create sunshine table from Clean File
 --	first_name_clean	salary_paid	taxable_benefits
 CREATE TABLE sunshine_table (
@@ -33,13 +47,16 @@ CREATE TABLE gender_title_table (
 );
 
 -- Create Ontario Wage table for FT employees first data set
+
 CREATE TABLE ontario_wage_table (
-  year INT PRIMARY KEY NOT NULL UNIQUE,
+  year INTEGER,
+  province TEXT,
+  wage_frequency TEXT,
+  noc TEXT,
   gender TEXT,
-  age_cat INTEGER,
-  naics_cat TEXT,
-  avg_wkly_wage INTEGER	
-);
+  age_group TEXT,
+  weekly_wage FLOAT
+  );
 
 -- Create CPI table for All product categories for Ontario
 CREATE TABLE cpi_table (
