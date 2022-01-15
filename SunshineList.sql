@@ -1,50 +1,19 @@
--- Testing importing of Json file
--- Sector	Last name	First name	Salary	Benefits	Employer	Job title	Year
-CREATE TABLE sunshine_table_test (
-  Sector VARCHAR,
-  Last_name	VARCHAR,
-  First_name VARCHAR, 
-  Salary INT,
-  Benefits INT,
-  Employer VARCHAR,
-  Job_title	VARCHAR,
-  Year DATE   
-);
-
-
--- Create sunshine table from Clean File
---	first_name_clean	salary_paid	taxable_benefits
+--Create Sunshine table 
 CREATE TABLE sunshine_table (
-  --unique_id TEXT PRIMARY KEY NOT NULL UNIQUE,
   year INTEGER,
-  sector VARCHAR,
-  employer VARCHAR,
-  job_title VARCHAR,
-  last_first_name VARCHAR,
-  last_name VARCHAR,
-  first_name VARCHAR,
-  first_name_clean VARCHAR,
-  salary_paid INTEGER,
-  taxable_benefits INTEGER  
-);
-
--- Create Gender Table for first data set
-CREATE TABLE gender_table (
-  first_name TEXT PRIMARY KEY NOT NULL UNIQUE,
-  gender TEXT
-);
-
--- Create Age Table for first data set
-CREATE TABLE age_table (
-  first_name TEXT PRIMARY KEY NOT NULL UNIQUE,
-  age INTEGER
-);
-
--- Create Gender Table based on job title from initial gender indentification
-CREATE TABLE gender_title_table (
-  job_title TEXT PRIMARY KEY NOT NULL UNIQUE,
-  gender TEXT
-);
+  sector TEXT,
+  employer TEXT,
+  job_title TEXT,
+  last_first_name TEXT,
+  last_name TEXT,	
+  first_name TEXT,
+  clean_first_name TEXT FOREIGN KEY,
+  clean_alt_first_name TEXT FOREIGN KEY,
+  gender TEXT,
+--   age INTEGER,
+  salary_paid FLOAT,
+  taxable_benefits FLOAT
+    );
 
 -- Create Ontario Wage table for FT employees first data set
 
@@ -59,54 +28,48 @@ CREATE TABLE ontario_wage_table (
   );
 
 -- Create CPI table for All product categories for Ontario
+'year', 'province', 'product_groups', 'CPI'
 CREATE TABLE cpi_table (
-  year INTEGER PRIMARY KEY NOT NULL UNIQUE,
-  value INTEGER
+  year INTEGER,
+  province TEXT,
+  product_groups TEXT,
+  CPI FLOAT	
  );
 
+-- Create Gender Table from Machine Learning Model
+-- gender identification is created using 'first name' dummy data 
+CREATE TABLE gender_table (
+  first_name TEXT PRIMARY KEY NOT NULL UNIQUE,--join to clean_first_name and clean_alt_first_name
+  gender TEXT
+);
 
--- Create table to hold raw data for CPI table from Stats Can
-CREATE TABLE statscan_cpi (
-	REF_DATE INTEGER PRIMARY KEY,
-	GEO VARCHAR,
-	DGUID VARCHAR,
-	Products_and_product_groups VARCHAR,
-	UOM VARCHAR,
-	UOM_ID VARCHAR,
-	SCALAR_FACTOR VARCHAR,
-	SCALAR_ID VARCHAR,
-	VECTOR VARCHAR,
-	COORDINATE VARCHAR,
-	VALUE VARCHAR,
-	STATUS VARCHAR,
-	SYMBOL VARCHAR,
-	TERMINATED VARCHAR,
-	DECIMALS INT
-)
+-- -- Create Age Table for first data set
+-- CREATE TABLE age_table (
+--   first_name TEXT PRIMARY KEY NOT NULL UNIQUE,
+--   age INTEGER
+-- );
 
-
---Import data
-COPY statscan_cpi
-FROM 'OntarioCPI_databaseLoadingData.csv' DELIMITER ',' csv HEADER
-;
-
-COPY statscan_cpi (REF_DATE, GEO, DGUID,Products_and_product_groups, UOM, UOM_ID,SCALAR_FACTOR, SCALAR_ID, VECTOR, COORDINATE, VALUE, STATUS, SYMBOL, TERMINATED, DECIMALS   ) FROM 'OntarioCPI_databaseLoadingData.csv' CSV HEADER DELIMITER ',';
+-- -- Create Gender Table based on job title from initial gender indentification
+-- CREATE TABLE gender_title_table (
+--   job_title TEXT PRIMARY KEY NOT NULL UNIQUE,
+--   gender TEXT
+-- );
 
 
 --Delete tables for testing purposes
 DELETE FROM sunshine_table;
 DELETE FROM gender_table;
 DELETE FROM age_table;
-DELETE FROM gender_title_table;
 DELETE FROM ontario_wage_table;
 DELETE FROM cpi_table;
 
 --Review that tables were created and data appended
 SELECT * FROM sunshine_table;
-SELECT * FROM gender_table;
-SELECT * FROM age_table;
-SELECT * FROM gender_title_table;
 SELECT * FROM ontario_wage_table;
 SELECT * FROM cpi_table;
-SELECT * FROM statscan_cpi;
+SELECT * FROM gender_table;
+SELECT * FROM age_table;
+
+
+
 
