@@ -158,37 +158,40 @@ The image below represents the tables of data that are uploaded onto the databas
 
 
 ### **Data Analysis Phase:**
-Detailed descriptions of our data analysis can be found in our presentation.
+Detailed descriptions of our data analysis can be in the next segment.
 
 
 ## **Machine Learning: Gender Identification**
-### Preliminary Data Processing:
-The first name column from the Sunshine list will be used for our machine learning model.
+### Overall ML module Objective:
+Machine learning tools will be used to predict gender and potentially age for the list of names in the sunshine list. This process is essential for the analysis and outputs/recommendations.
 
-- document process
+Initial classification using Natural Language Toolkit (NLTK), a Python library that used supervised classification, is done to determine a gender class (output) for each input (given name).
 
-### Initial Classification using Natural Language Toolkit (NLTK):
-
-- *insert model chart**
+### Preliminary Data Processing for Segment 1:
+For this segment we have used a library installed that will automatically import two text files, ‘male.txt’ and ‘female.txt’ which contain a large list of male and female names respectively. 
+* Note: This is only done as a trail for segment 1. We will use other names source down the road … TBD
 
 ### Splitting Data Into Testing & Training sets:
+A labelled class list is created and that list is randomly shuffled,divided into a training and testing set. 
 
-- describe 
+* insert image
+
+From there, we instantiate a naive Bayes classification model (classifier) and train it with the training set 
+Lastly, a basic accuracy score is generated for evaluating the model.
 
 ### Explanation of Model Choice (Including Limitations & Benefits):
+TBD further during the project
 
 ## **Machine Learning: Sentiment**
+* Note that this part of machine learning will not be done during segmeent 1 and will be elaborated during the next segment.
+
 ### Preliminary Data Processing:
-
-
 - document process
 
 ### Initial Classification - to be determined
-
 - *insert model chart**
 
 ### Splitting Data Into Testing & Training sets:
-
 - describe 
 
 ### Explanation of Model Choice (Including Limitations & Benefits):
@@ -212,14 +215,13 @@ Our dashboard will be presented with charts showing:
   - top twitter comments
   - postive vs negative
 
-
 - Gender Gap, Roles, Trends
 
 
 *Insert Image of Dashboard*
 
 ## **Analysis Results:**
-
+To be presented in future segments.
 
 
 ## **Recommendations for Future Analysis:**
