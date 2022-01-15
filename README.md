@@ -172,11 +172,14 @@ For this segment we have used a library installed that will automatically import
 - *Note: This is only done as a trail for segment 1. We will use other names source down the road … TBD
 
 ### Splitting Data Into Testing & Training sets:
-A labelled class list is created and that list is randomly shuffled,divided into a training and testing set. 
+A labelled class list is created using the following code:
 
-- *insert image
+![labels](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/labels.PNG)
+
+The above list is randomly shuffled and the resulting list is divided into a training and testing set.
 
 From there, we instantiate a naive Bayes classification model (classifier) and train it with the training set 
+
 Lastly, a basic accuracy score is generated for evaluating the model.
 
 ### Explanation of Model Choice (Including Limitations & Benefits):
