@@ -158,23 +158,23 @@ The image below represents the tables of data that are uploaded onto the databas
 
 
 ### **Data Analysis Phase:**
-Detailed descriptions of our data analysis can be in the next segment.
+Detailed descriptions of our data analysis will be shown in the next segment.
 
 
 ## **Machine Learning: Gender Identification**
 ### Overall ML module Objective:
 Machine learning tools will be used to predict gender and potentially age for the list of names in the sunshine list. This process is essential for the analysis and outputs/recommendations.
 
+### Preliminary Data Processing:
 Initial classification using Natural Language Toolkit (NLTK), a Python library that used supervised classification, is done to determine a gender class (output) for each input (given name).
 
-### Preliminary Data Processing for Segment 1:
 For this segment we have used a library installed that will automatically import two text files, ‘male.txt’ and ‘female.txt’ which contain a large list of male and female names respectively. 
-* Note: This is only done as a trail for segment 1. We will use other names source down the road … TBD
+- *Note: This is only done as a trail for segment 1. We will use other names source down the road … TBD
 
 ### Splitting Data Into Testing & Training sets:
 A labelled class list is created and that list is randomly shuffled,divided into a training and testing set. 
 
-* insert image
+- *insert image
 
 From there, we instantiate a naive Bayes classification model (classifier) and train it with the training set 
 Lastly, a basic accuracy score is generated for evaluating the model.
@@ -183,7 +183,7 @@ Lastly, a basic accuracy score is generated for evaluating the model.
 TBD further during the project
 
 ## **Machine Learning: Sentiment**
-* Note that this part of machine learning will not be done during segmeent 1 and will be elaborated during the next segment.
+- *Note that this part of machine learning will not be done during segmeent 1 and will be elaborated during the next segment.
 
 ### Preliminary Data Processing:
 - document process
