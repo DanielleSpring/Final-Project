@@ -59,7 +59,7 @@ CREATE TABLE gender_table (
 --Delete tables for testing purposes
 DELETE FROM sunshine_table;
 DELETE FROM gender_table;
-DELETE FROM age_table;
+-- DELETE FROM age_table;
 DELETE FROM ontario_wage_table;
 DELETE FROM cpi_table;
 
@@ -68,7 +68,7 @@ SELECT * FROM sunshine_table;
 SELECT * FROM ontario_wage_table;
 SELECT * FROM cpi_table;
 SELECT * FROM gender_table;
-SELECT * FROM age_table;
+-- SELECT * FROM age_table;
 
 
 
