@@ -17,7 +17,7 @@ NOTE: While members are assigned specific roles, we all work together on each pa
 
 ## Communication Protocol:
 
-<img width="600" alt="TeamCharter" src="https://user-images.githubusercontent.com/89538802/149188617-bb245877-c250-458f-94e9-a5043f9ca763.PNG">
+<img width="600" alt="TeamCharter" src="https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/TeamCharter_v1.PNG">
 
 ## **Selected Topic : Can it be used to evaluate fairness in the Ontario workforce?**
 
@@ -25,7 +25,7 @@ NOTE: While members are assigned specific roles, we all work together on each pa
 The Sunshine list is annual list includes public sector employees in Ontario who earned over $100,000 last year. The list is mandated by the Public Sector Salary Disclosure Act enacted by the Ontario government under Premier Mike Harris, with the first list released in 1996.
 
 ### Objective:
-By analyzing public sector incomes for those employees who earned over $100,000 annually from 1996 to 2020, we seek to determine if the yearly publication still has relevance.  We will review public sentiment through twitter and news feeds, in addition to, analyzing the data for trends based on salaries, gender, regions (urban vs rural), position to determine relevnacy.  The list does not denote gender or age, so we will use machine learning tools to predict gender and age. 
+By analyzing public sector incomes for those employees who earned over $100,000 annually, we seek to determine if the yearly publication can be used to evaluate fairness in the Ontario workforce.  In our analysis we will be using the data to determine trends based on salaries, gender and potentially age and regions (urban vs rural). In addition, we will be reviewing public sentiment through twitter feeds. The sunshine list does not denote gender, age or location therefore we will use machine learning tools to predict gender/age and data cleansing teachniques to identify location. 
 
 <img width="500" alt="Network Architecture" src="https://user-images.githubusercontent.com/89538802/149169406-e4e8e101-9d9e-49c8-aa2c-3290f08e3e93.png">
 
