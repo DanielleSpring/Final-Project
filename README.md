@@ -246,7 +246,9 @@ To be presented in future segments.
 
 To be presented in future segments.
 
+# Thank You 
 
-## **Citations:**
+## **References: Related Projects/Resources Used**
 
-Initial gender identification machine learning https://www.geeksforgeeks.org/python-gender-identification-by-name-using-nltk/
+### Initial gender identification machine learning
+https://www.geeksforgeeks.org/python-gender-identification-by-name-using-nltk/
