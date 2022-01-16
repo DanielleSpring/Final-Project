@@ -8,16 +8,16 @@ CREATE TABLE sunshine_unique_first_name (
 -- Create Gender Table from Machine Learning Model
 -- gender identification is created using 'first name' dummy data 
 CREATE TABLE ml_gender_table (
-  first_name TEXT NOT NULL UNIQUE REFERENCES sunshine_unique_first_name (first_name), --join to clean_first_name and clean_alt_first_name
-  gender TEXT,
-  PRIMARY KEY(first_name) 
+  first_name TEXT NOT NULL, --REFERENCES sunshine_unique_first_name (first_name), --join to clean_first_name and clean_alt_first_name
+  gender TEXT
+--   PRIMARY KEY(first_name) 
 );
 
 -- -- Create Age Table for first data set
 CREATE TABLE ml_age_table (
-	first_name TEXT NOT NULL UNIQUE REFERENCES sunshine_unique_first_name (first_name),
-	age INTEGER,
-	PRIMARY KEY(first_name)
+	first_name TEXT NOT NULL, -- REFERENCES sunshine_unique_first_name (first_name),
+	age INTEGER
+-- 	PRIMARY KEY(first_name)
 	);
 	
 --Create Sunshine table 
