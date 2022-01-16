@@ -121,52 +121,59 @@ https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Dat
 
 For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019:
 * Link to be added 
-   
+
+
+Data cleansing process: 
+
+* To be added in later segments.
+ 
 ##### **Ontario Wages - Stats Canada**
-* Link to raw csv file   
+* Links to raw csv files:
+
+https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_25to54.csv
+https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_55Older.csv
+https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_25to54.csv
+https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_55Older.csv
 
 Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
 
-    - Geography: Ontario
-    - Wages: Average Weekly Wage
-    - Reference Period: 1997 to 2021
-    - Type of Work: Full Time*
-    - Sexes:  Male and Female
-    - Age Group:  25 to 54 years and >55 years old
+- Geography: Ontario
+- Wages: Average Weekly Wage
+- Reference Period: 1997 to 2021
+- Type of Work: Full Time*
+- Sexes:  Male and Female
+- Age Group:  25 to 54 years and >55 years old
     
-    Definitions:
-    - Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.
-    - NOC stands for National Occupational Classification
+Definitions:
+- Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.
+- NOC stands for National Occupational Classification
 
-    NOTE: CSV for Database Loading were used for downloads.
+NOTE: CSV for Database Loading were used for downloads.
  
- In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:   
-   *detail steps of cleansing required*
-
-
 ##### **CPI - Stats Canada**
-In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:   
-   *detail steps of cleansing required*
+* Link to raw csv file:
 
+https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv
 
 #### 3) Load
 ##### **Database:**
 For our database, we will be using both PostgreSQL and MongoDB.  We will be hosting our raw data using Heroku. This enables anyone with the access codes to work the project data. 
 
-The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database.
+
 
 ###### PostgreSQL Database
+The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database.
 
 <img width="200" alt="ERD pgerd" src="https://user-images.githubusercontent.com/89538802/149167141-255e1c91-4b0e-4f78-8fe1-75afccafc27d.png">
 *Reco using different software for ERD--the SQL one is not pretty*
 
 ###### MongoDb 
-
+To be worked on in later segments.
 
 
 ### **Data Analysis Phase:**
-Detailed descriptions of our data analysis will be shown in the next segment.
-
+- Trend and insight analysis will be done in later segments. 
+- Further data cleansing required on the sunshine list "first name" column to be used for gender & age identification.
 
 ## **Machine Learning: Gender Identification**
 ### Overall ML module Objective:
@@ -176,41 +183,43 @@ Machine learning tools will be used to predict gender and potentially age for th
 Initial classification using Natural Language Toolkit (NLTK), a Python library that used supervised classification, is done to determine a gender class (output) for each input (given name).
 
 For this segment we have used a library installed that will automatically import two text files, ‘male.txt’ and ‘female.txt’ which contain a large list of male and female names respectively. 
-- *Note: This is only done as a trail for segment 1. We will use other names source down the road … TBD
+*Note: This is only used as dummy data for segment 1. We will seek other name sources such as the US Social Security Bureau Data to further train our model prior to predicting gender from the sunshine list.
 
 ### Splitting Data Into Testing & Training sets:
 A labelled class list is created using the following code:
 
-![labels](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/labels.PNG)
+![labels](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/labels.png)
 
-The above list is randomly shuffled and the resulting list is divided into a training and testing set.
+The above list is randomly shuffled and the resulting list is divided into a training and testing set. Note default percentage breakdown between training and testing has been used. 
 
 From there, we instantiate a naive Bayes classification model (classifier) and train it with the training set 
 
 Lastly, a basic accuracy score is generated for evaluating the model.
 
+![Accuracy_InitialModel](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/Accuracy_InitialModel.png)
+
 ### Explanation of Model Choice (Including Limitations & Benefits):
 TBD further during the project
 
 ## **Machine Learning: Sentiment**
-- *Note that this part of machine learning will not be done during segmeent 1 and will be elaborated during the next segment.
+*Note that this part of machine learning will not be done during segmeent 1 and will be elaborated during the next segment.
 
 ### Preliminary Data Processing:
-- document process
+
 
 ### Initial Classification - to be determined
-- *insert model chart**
+
 
 ### Splitting Data Into Testing & Training sets:
-- describe 
+
 
 ### Explanation of Model Choice (Including Limitations & Benefits):
 
-- 
-## **Dashboard:**
-We will use Tableau to create our Dashboard and use HeroKu to host it. It will be directly tied to our PostgreSQL and MongoDb database.
 
-Our dashboard will be presented with charts showing:
+## **Dashboard:**
+We will use Tableau to create our Dashboard and use HeroKu to host it. It will be directly tied to our PostgreSQL and MongoDb database and linked to our project website.
+
+Pending data analysis, some preliminary thoughts on how our dashboard will be presented are listed below: 
 
 - Summary Analysis - Top Earners, Top positions, 
 
@@ -219,7 +228,6 @@ Our dashboard will be presented with charts showing:
   - filter ability based on age, gender
 
 - Salary trending (bubble chart layered onto map of Ontario)
-
 
 - Sunshine List Tweets: Sentiment Analysis
   - top twitter comments
@@ -236,8 +244,9 @@ To be presented in future segments.
 
 ## **Recommendations for Future Analysis:**
 
-
-
+To be presented in future segments.
 
 
 ## **Citations:**
+
+Initial gender identification machine learning https://www.geeksforgeeks.org/python-gender-identification-by-name-using-nltk/
