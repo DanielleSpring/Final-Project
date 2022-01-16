@@ -59,32 +59,33 @@ Given the data available, can we use 25 years of data to determine whether the O
 
 
 ## **Technologies & Tools Used:**
-Technologies Used  *replace with graphic listing tools, languages, libraries, algorithms?*
+
 ### Tools:
-*PostgreSQL used to house the Sunshine list and Statistics Canada data
-*MongoDB used to house the twitter feed data
-*Tableau used to display Dashboard
-*Jupyter Notebook
-*GitHub 
-*Heroku used for hosting
+* PostgreSQL used to house the Sunshine list and Statistics Canada data
+* MongoDB used to house the twitter feed data (to be worked on in later segments)
+* Tableau used to display Dashboard (to be worked on in later segments)
+* Jupyter Notebook used for data extraction/transformation, data analysis (to be worked on in later segments) and machine learning model
+* GitHub 
+* Heroku used for hosting 
+* Quick Database Diagram used for ERD https://app.quickdatabasediagrams.com/#/
 
 ### Languages:
-*Python
-*SQL
-*JavaScript, HTML
+* Python
+* SQL
+* JavaScript, HTML (to be added on in later segments)
 
 ### Libraries:
-*pandas
-*Matplotlib
-*Beautisoup
-*ChromeDriverManager
-*Browser
-*random
-*nltk
-*Leaflet
-*Css
-
-
+* pandas
+* Regular Expression RegEx
+* Matplotlib (to be worked on in later segments)
+* Beautisoup (to be worked on in later segments)
+* ChromeDriverManager (to be worked on in later segments)
+* Browser (to be worked on in later segments)
+* random 
+* nltk
+* sklearn
+* Leaflet (to be worked on in later segments)
+* Css (to be worked on in later segments)
 
 ## **Data Exploration Phase:**
 ### ETL Process 
@@ -109,14 +110,9 @@ Twitter: https://developer.twitter.com/en/products/twitter-api
 In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:
 
 ##### **Sunshine List**
-    1) Append 2020 Ontario Sunshine list to consolidated kaggle Sunshine list dataset (1996-2019)
-    2) Initiate cleansing procedure documented  *insert link to detailed cleasing procedure*
-    3) Make sure that CSV dataset have the same number of columns as the sQL tables
-    4) Make sure all columns have identical data types CSV=SQL
-        a) Salary and Taxible Benefits must be FLOAT64
-        b) Year must be INTEGER
-    5) You may receive a an error for line 54113, column G - Manually remove the single ' around the A in the CSV
-    
+   - Manually import table with the following defaults:
+   
+   - 
 ##### **Ontario Wages - Stats Canada**
 Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
 
