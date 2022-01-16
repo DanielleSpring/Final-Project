@@ -109,14 +109,18 @@ Twitter: https://developer.twitter.com/en/products/twitter-api
 
 In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:
 
+- Use the raw csv files listed below for table imports .
 - Manually import tables with the following defaults:
 
-   <img width="500" alt="sql_import" src="https://user-images.githubusercontent.com/88908758/149667958-aceeac3c-487c-4310-9117-63a92f85d96a.PNG">
+<img width="500" alt="sql_import" src="https://user-images.githubusercontent.com/88908758/149667958-aceeac3c-487c-4310-9117-63a92f85d96a.PNG">
 
 ##### **Sunshine List**
-* Link to raw csv file   
 
-- For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019
+2020 dataset to be used in later segments: 
+https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv  
+
+For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019:
+* Link to be added 
    
 ##### **Ontario Wages - Stats Canada**
 * Link to raw csv file   
