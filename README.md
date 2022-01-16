@@ -109,11 +109,18 @@ Twitter: https://developer.twitter.com/en/products/twitter-api
 
 In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:
 
+- Manually import tables with the following defaults:
+
+   <img width="500" alt="sql_import" src="https://user-images.githubusercontent.com/88908758/149667958-aceeac3c-487c-4310-9117-63a92f85d96a.PNG">
+
 ##### **Sunshine List**
-   - Manually import table with the following defaults:
+* Link to raw csv file   
+
+- For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019
    
-   - 
 ##### **Ontario Wages - Stats Canada**
+* Link to raw csv file   
+
 Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
 
     - Geography: Ontario
