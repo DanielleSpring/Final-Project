@@ -95,8 +95,8 @@ SELECT * FROM sunshine_table;
 SELECT * FROM ontario_wage_table;
 SELECT * FROM cpi_table;
 SELECT * FROM ml_gender_table;
-SELECT * FROM age_table;
-
+SELECT * FROM age_table;--still needs to be populated...to be done in later segments
+SELECT * FROM city_table;--still needs to be populated...to be done in later segments
 
 
 
