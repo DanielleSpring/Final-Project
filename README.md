@@ -61,7 +61,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 | Objective|Location |
 |----|----|
 | Presentation | [Link to Google Slides](https://docs.google.com/presentation/d/12sRunD2lhAb3iMmoYrPP1e33THfheji_Kfs108casYw/edit?usp=sharing) |
-| Database Integration | https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList.sql                             https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/StatsCan_Ontario_dummy_for_import.ipynb                               https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList_dummy_for_import.ipynb |
+| Database Integration | [Link to Sunshine SQL file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList.sql),                           [Link to Stats Canada ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/StatsCan_Ontario_dummy_for_import.ipynb),                             [Link to Sunshine ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList_dummy_for_import.ipynb) |
 | Exploratory Analysis | *Will be added in later segments*   |
 | Machine Learning code and output | [Link to ML model  for segment 1](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Segment_1_ML_Mockup_Ben_modified.ipynb)   |
 
@@ -104,7 +104,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 
 #### 1) Extract
 ##### **Data Sources:**
-Ontario Sunshine List for 20202: https://www.ontario.ca/page/public-sector-salary-disclosure
+Ontario Sunshine List for 2020: https://www.ontario.ca/page/public-sector-salary-disclosure
 
 kaggle Ontario Sunshine List 1996 to 2019 consolided raw data file : https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list
 
@@ -126,11 +126,11 @@ In order to import the cleansed CSV files in PostgreSQL, you must do the followi
 ##### **Sunshine List**
 
 2020 dataset to be used in later segments: 
-https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv  
+[Link to Sunshine List 2020 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv}  
 
 For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019:
 
-https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/SunShine.csv
+[Link to Sunshine 1996-2019 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/SunShine.csv)
 
 
 Data cleansing process: 
@@ -140,10 +140,13 @@ Data cleansing process:
 ##### **Ontario Wages - Stats Canada**
 * Links to raw csv files:
 
-https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_25to54.csv
-https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_55Older.csv
-https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_25to54.csv
-https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_55Older.csv
+[Stats Can Male 25-54](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_25to54.csv)
+
+[Stats Can Male 55 or older](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_55Older.csv)
+
+[Stats Can Female 25-54](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_25to54.csv)
+
+[Stats Can Female 55 or older](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_55Older.csv)
 
 Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
 
@@ -163,7 +166,7 @@ NOTE: CSV for Database Loading were used for downloads.
 ##### **CPI - Stats Canada**
 * Link to raw csv file:
 
-https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv
+[Stats Can CPI](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv)
 
 #### 3) Load
 ##### **Database:**
