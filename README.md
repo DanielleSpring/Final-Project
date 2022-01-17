@@ -75,6 +75,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 * Jupyter Notebook used for data extraction/transformation, data analysis (to be worked on in later segments) and machine learning model
 * GitHub 
 * Heroku used for hosting 
+* Flask
 * Quick Database Diagram used for ERD https://app.quickdatabasediagrams.com/#/
 
 ### Languages:
