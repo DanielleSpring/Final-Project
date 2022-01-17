@@ -29,6 +29,12 @@ By analyzing public sector incomes for those employees who earned over $100,000 
 
 <img width="500" alt="Network Architecture" src="https://user-images.githubusercontent.com/89538802/149169406-e4e8e101-9d9e-49c8-aa2c-3290f08e3e93.png">
 
+### Why did we choose this topic?:
+We chose this topic for the following reasons:
+- team concenses (voted on 6 different suggest topics researched by team)
+- data provided a good opportunity to present multiple languages and technologies taught in bootcamp
+- very rich dataset for data cleansing opportunities
+
 ## **Questions We Would Like to Answer:**
 Given the data available, can we use 25 years of data to determine whether the Ontario Sunshine list is still relevant? 
 
