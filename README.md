@@ -126,6 +126,7 @@ In order to import the cleansed CSV files in PostgreSQL, you must do the followi
 ##### **Sunshine List**
 
 2020 dataset to be used in later segments: 
+
 [Link to Sunshine List 2020 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv}  
 
 For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019:
