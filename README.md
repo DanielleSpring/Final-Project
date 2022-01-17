@@ -45,6 +45,8 @@ Given the data available, can we use 25 years of data to determine whether the O
 - When comparing job titles in certain sectors to others are they fairly equivalent or are certain sectors more generous?
 - How do people feel about the Sunshine list?
 - Can we analyze public sentiment concerning the sunshine list?
+- Which top-earning positions or person’s have continued to receive generous raises while lower seniority roles may have endured wages freezes and cutbacks?
+- How many of the top earners are women?
 
 
 
@@ -252,3 +254,6 @@ To be presented in future segments.
 
 ### Initial gender identification machine learning
 https://www.geeksforgeeks.org/python-gender-identification-by-name-using-nltk/
+
+### Consolidated SunShine List (raw data)
+Sahid Veliji for creating consolidated historical sunshine list (1996-2019)  and posting to kaggle.com https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list
