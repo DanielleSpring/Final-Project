@@ -1,0 +1,1021 @@
+year,province,wage_frequency,noc,gender,age_group,weekly_wage
+2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1250.33
+2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1283.03
+2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1314.85
+2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1388.65
+2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1427.36
+2017,Ontario,Average weekly wage rate,Management occupations [0],Males,25 to 54 years,1844.4
+2018,Ontario,Average weekly wage rate,Management occupations [0],Males,25 to 54 years,1894.62
+2019,Ontario,Average weekly wage rate,Management occupations [0],Males,25 to 54 years,1944.99
+2020,Ontario,Average weekly wage rate,Management occupations [0],Males,25 to 54 years,1997.75
+2021,Ontario,Average weekly wage rate,Management occupations [0],Males,25 to 54 years,2127.06
+2017,Ontario,Average weekly wage rate,Senior management occupations [00],Males,25 to 54 years,2172.79
+2018,Ontario,Average weekly wage rate,Senior management occupations [00],Males,25 to 54 years,2392.81
+2019,Ontario,Average weekly wage rate,Senior management occupations [00],Males,25 to 54 years,2580.65
+2020,Ontario,Average weekly wage rate,Senior management occupations [00],Males,25 to 54 years,2655.12
+2021,Ontario,Average weekly wage rate,Senior management occupations [00],Males,25 to 54 years,2621.0
+2017,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,25 to 54 years,1933.63
+2018,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,25 to 54 years,1984.45
+2019,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,25 to 54 years,1977.35
+2020,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,25 to 54 years,2109.54
+2021,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,25 to 54 years,2241.37
+2017,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,25 to 54 years,1585.24
+2018,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,25 to 54 years,1637.39
+2019,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,25 to 54 years,1732.38
+2020,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,25 to 54 years,1707.31
+2021,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,25 to 54 years,1822.47
+2017,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,25 to 54 years,1727.56
+2018,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,25 to 54 years,1765.29
+2019,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,25 to 54 years,1910.1
+2020,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,25 to 54 years,1776.72
+2021,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,25 to 54 years,1987.85
+2017,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,25 to 54 years,1219.93
+2018,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,25 to 54 years,1248.2
+2019,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,25 to 54 years,1299.08
+2020,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,25 to 54 years,1399.44
+2021,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,25 to 54 years,1412.19
+2017,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,25 to 54 years,1520.46
+2018,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,25 to 54 years,1583.52
+2019,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,25 to 54 years,1568.12
+2020,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,25 to 54 years,1730.33
+2021,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,25 to 54 years,1711.39
+2017,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,25 to 54 years,1121.54
+2018,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,25 to 54 years,1196.42
+2019,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,25 to 54 years,1223.8
+2020,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,25 to 54 years,1258.26
+2021,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,25 to 54 years,1310.51
+2017,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,25 to 54 years,1174.87
+2018,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,25 to 54 years,1122.54
+2019,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,25 to 54 years,1194.08
+2020,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,25 to 54 years,1279.38
+2021,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,25 to 54 years,1333.46
+2017,Ontario,Average weekly wage rate,Office support occupations [14],Males,25 to 54 years,923.6
+2018,Ontario,Average weekly wage rate,Office support occupations [14],Males,25 to 54 years,985.45
+2019,Ontario,Average weekly wage rate,Office support occupations [14],Males,25 to 54 years,972.05
+2020,Ontario,Average weekly wage rate,Office support occupations [14],Males,25 to 54 years,986.91
+2021,Ontario,Average weekly wage rate,Office support occupations [14],Males,25 to 54 years,972.35
+2017,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,25 to 54 years,926.24
+2018,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,25 to 54 years,868.86
+2019,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,25 to 54 years,907.0
+2020,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,25 to 54 years,904.99
+2021,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,25 to 54 years,985.68
+2017,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,25 to 54 years,1498.35
+2018,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,25 to 54 years,1525.13
+2019,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,25 to 54 years,1566.44
+2020,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,25 to 54 years,1609.0
+2021,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,25 to 54 years,1675.79
+2017,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,25 to 54 years,1624.74
+2018,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,25 to 54 years,1655.21
+2019,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,25 to 54 years,1688.44
+2020,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,25 to 54 years,1721.47
+2021,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,25 to 54 years,1795.2
+2017,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,25 to 54 years,1280.12
+2018,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,25 to 54 years,1284.29
+2019,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,25 to 54 years,1338.27
+2020,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,25 to 54 years,1365.31
+2021,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,25 to 54 years,1388.06
+2017,Ontario,Average weekly wage rate,Health occupations [3],Males,25 to 54 years,1296.86
+2018,Ontario,Average weekly wage rate,Health occupations [3],Males,25 to 54 years,1408.3
+2019,Ontario,Average weekly wage rate,Health occupations [3],Males,25 to 54 years,1367.72
+2020,Ontario,Average weekly wage rate,Health occupations [3],Males,25 to 54 years,1441.89
+2021,Ontario,Average weekly wage rate,Health occupations [3],Males,25 to 54 years,1422.79
+2017,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,25 to 54 years,1369.24
+2018,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,25 to 54 years,1311.49
+2019,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,25 to 54 years,1453.15
+2020,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,25 to 54 years,1569.47
+2021,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,25 to 54 years,1455.82
+2017,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,25 to 54 years,1475.55
+2018,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,25 to 54 years,1794.88
+2019,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,25 to 54 years,1592.53
+2020,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,25 to 54 years,1696.0
+2021,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,25 to 54 years,1786.62
+2017,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,25 to 54 years,1345.65
+2018,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,25 to 54 years,1345.41
+2019,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,25 to 54 years,1370.71
+2020,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,25 to 54 years,1425.12
+2021,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,25 to 54 years,1455.64
+2017,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,25 to 54 years,819.43
+2018,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,25 to 54 years,874.11
+2019,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,25 to 54 years,896.86
+2020,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,25 to 54 years,845.78
+2021,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,25 to 54 years,881.91
+2017,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,25 to 54 years,1594.99
+2018,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,25 to 54 years,1596.27
+2019,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,25 to 54 years,1619.63
+2020,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,25 to 54 years,1703.46
+2021,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,25 to 54 years,1687.1
+2017,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,25 to 54 years,1621.03
+2018,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,25 to 54 years,1663.14
+2019,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,25 to 54 years,1682.42
+2020,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,25 to 54 years,1696.58
+2021,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,25 to 54 years,1665.77
+2017,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,25 to 54 years,1583.43
+2018,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,25 to 54 years,1550.96
+2019,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,25 to 54 years,1599.01
+2020,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,25 to 54 years,1752.33
+2021,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,25 to 54 years,1768.74
+2017,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,25 to 54 years,1106.09
+2018,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,25 to 54 years,1008.33
+2019,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,25 to 54 years,1023.32
+2020,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,25 to 54 years,1001.65
+2021,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,25 to 54 years,988.27
+2017,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,25 to 54 years,1829.06
+2018,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,25 to 54 years,1888.32
+2019,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,25 to 54 years,1858.08
+2020,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,25 to 54 years,1924.65
+2021,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,25 to 54 years,1964.75
+2017,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,25 to 54 years,1204.51
+2018,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,25 to 54 years,1151.38
+2019,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,25 to 54 years,1161.5
+2020,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,25 to 54 years,1161.51
+2021,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,25 to 54 years,1125.01
+2017,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,25 to 54 years,1126.24
+2018,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,25 to 54 years,1065.36
+2019,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,25 to 54 years,1225.16
+2020,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,25 to 54 years,1204.11
+2021,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,25 to 54 years,1348.67
+2017,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,25 to 54 years,1356.34
+2018,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,25 to 54 years,1026.47
+2019,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,25 to 54 years,1168.0
+2020,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,25 to 54 years,1331.3
+2021,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,25 to 54 years,1401.23
+2017,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,25 to 54 years,1005.25
+2018,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,25 to 54 years,1085.66
+2019,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,25 to 54 years,1258.86
+2020,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,25 to 54 years,1143.82
+2021,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,25 to 54 years,1318.12
+2017,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,25 to 54 years,863.27
+2018,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,25 to 54 years,876.5
+2019,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,25 to 54 years,892.89
+2020,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,25 to 54 years,979.44
+2021,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,25 to 54 years,982.82
+2017,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,25 to 54 years,1025.51
+2018,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,25 to 54 years,1017.41
+2019,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,25 to 54 years,1039.18
+2020,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,25 to 54 years,1146.08
+2021,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,25 to 54 years,1182.11
+2017,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,25 to 54 years,723.13
+2018,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,25 to 54 years,805.54
+2019,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,25 to 54 years,836.19
+2020,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,25 to 54 years,905.67
+2021,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,25 to 54 years,927.32
+2017,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,25 to 54 years,967.93
+2018,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,25 to 54 years,1012.16
+2019,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,25 to 54 years,1026.21
+2020,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,25 to 54 years,1077.13
+2021,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,25 to 54 years,1091.41
+2017,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,25 to 54 years,792.11
+2018,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,25 to 54 years,755.88
+2019,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,25 to 54 years,778.12
+2020,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,25 to 54 years,877.44
+2021,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,25 to 54 years,801.32
+2017,Ontario,Average weekly wage rate,Sales support occupations [66],Males,25 to 54 years,652.74
+2018,Ontario,Average weekly wage rate,Sales support occupations [66],Males,25 to 54 years,662.25
+2019,Ontario,Average weekly wage rate,Sales support occupations [66],Males,25 to 54 years,680.66
+2020,Ontario,Average weekly wage rate,Sales support occupations [66],Males,25 to 54 years,722.09
+2021,Ontario,Average weekly wage rate,Sales support occupations [66],Males,25 to 54 years,731.07
+2017,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,25 to 54 years,747.18
+2018,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,25 to 54 years,756.37
+2019,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,25 to 54 years,757.94
+2020,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,25 to 54 years,833.65
+2021,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,25 to 54 years,826.49
+2017,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,25 to 54 years,1119.24
+2018,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,25 to 54 years,1156.46
+2019,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,25 to 54 years,1181.74
+2020,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,25 to 54 years,1227.93
+2021,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,25 to 54 years,1260.89
+2017,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,25 to 54 years,1181.82
+2018,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,25 to 54 years,1217.58
+2019,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,25 to 54 years,1279.72
+2020,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,25 to 54 years,1333.27
+2021,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,25 to 54 years,1356.55
+2017,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,25 to 54 years,1204.22
+2018,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,25 to 54 years,1268.77
+2019,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,25 to 54 years,1300.1
+2020,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,25 to 54 years,1318.86
+2021,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,25 to 54 years,1390.33
+2017,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,25 to 54 years,887.31
+2018,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,25 to 54 years,889.64
+2019,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,25 to 54 years,869.37
+2020,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,25 to 54 years,897.5
+2021,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,25 to 54 years,911.35
+2017,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,25 to 54 years,1069.29
+2018,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,25 to 54 years,1082.42
+2019,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,25 to 54 years,1082.28
+2020,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,25 to 54 years,1162.64
+2021,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,25 to 54 years,1168.46
+2017,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,25 to 54 years,1016.45
+2018,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,25 to 54 years,
+2019,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,25 to 54 years,
+2020,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,25 to 54 years,
+2021,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,25 to 54 years,
+2017,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,25 to 54 years,1017.83
+2018,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,25 to 54 years,1184.09
+2019,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,25 to 54 years,1184.84
+2020,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,25 to 54 years,1145.71
+2021,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,25 to 54 years,1241.99
+2017,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,25 to 54 years,1278.59
+2018,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,25 to 54 years,1446.33
+2019,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,25 to 54 years,
+2020,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,25 to 54 years,
+2021,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,25 to 54 years,1658.98
+2017,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,25 to 54 years,845.08
+2018,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,25 to 54 years,1111.51
+2019,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,25 to 54 years,1000.11
+2020,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,25 to 54 years,982.74
+2021,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,25 to 54 years,953.47
+2017,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,25 to 54 years,853.81
+2018,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,25 to 54 years,
+2019,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,25 to 54 years,
+2020,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,25 to 54 years,
+2021,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,25 to 54 years,981.33
+2017,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,25 to 54 years,948.1
+2018,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,25 to 54 years,993.81
+2019,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,25 to 54 years,1018.84
+2020,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,25 to 54 years,1074.99
+2021,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,25 to 54 years,1092.3
+2017,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,25 to 54 years,1232.98
+2018,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,25 to 54 years,1295.72
+2019,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,25 to 54 years,1342.78
+2020,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,25 to 54 years,1431.88
+2021,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,25 to 54 years,1435.65
+2017,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,25 to 54 years,871.49
+2018,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,25 to 54 years,894.42
+2019,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,25 to 54 years,897.66
+2020,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,25 to 54 years,954.03
+2021,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,25 to 54 years,969.49
+2017,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,25 to 54 years,904.49
+2018,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,25 to 54 years,923.88
+2019,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,25 to 54 years,983.37
+2020,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,25 to 54 years,1010.18
+2021,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,25 to 54 years,1010.67
+2017,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,25 to 54 years,754.59
+2018,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,25 to 54 years,820.7
+2019,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,25 to 54 years,800.92
+2020,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,25 to 54 years,863.79
+2021,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,25 to 54 years,876.64
+2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1253.76
+2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1278.24
+2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1313.42
+2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1417.76
+2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1425.09
+2017,Ontario,Average weekly wage rate,Management occupations [0],Males,55 years and over,2058.1
+2018,Ontario,Average weekly wage rate,Management occupations [0],Males,55 years and over,2036.49
+2019,Ontario,Average weekly wage rate,Management occupations [0],Males,55 years and over,2074.34
+2020,Ontario,Average weekly wage rate,Management occupations [0],Males,55 years and over,2217.39
+2021,Ontario,Average weekly wage rate,Management occupations [0],Males,55 years and over,2274.13
+2017,Ontario,Average weekly wage rate,Senior management occupations [00],Males,55 years and over,2511.64
+2018,Ontario,Average weekly wage rate,Senior management occupations [00],Males,55 years and over,2522.75
+2019,Ontario,Average weekly wage rate,Senior management occupations [00],Males,55 years and over,2460.18
+2020,Ontario,Average weekly wage rate,Senior management occupations [00],Males,55 years and over,2796.5
+2021,Ontario,Average weekly wage rate,Senior management occupations [00],Males,55 years and over,2705.81
+2017,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,55 years and over,2182.9
+2018,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,55 years and over,2034.39
+2019,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,55 years and over,2100.98
+2020,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,55 years and over,2289.84
+2021,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Males,55 years and over,2355.75
+2017,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,55 years and over,1845.79
+2018,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,55 years and over,1836.77
+2019,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,55 years and over,2067.17
+2020,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,55 years and over,2025.73
+2021,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Males,55 years and over,2162.39
+2017,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,55 years and over,1816.88
+2018,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,55 years and over,1995.72
+2019,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,55 years and over,1875.11
+2020,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,55 years and over,2001.23
+2021,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Males,55 years and over,2030.78
+2017,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,55 years and over,1209.63
+2018,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,55 years and over,1298.21
+2019,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,55 years and over,1280.44
+2020,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,55 years and over,1303.28
+2021,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Males,55 years and over,1352.53
+2017,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,55 years and over,1771.47
+2018,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,55 years and over,1902.13
+2019,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,55 years and over,1711.55
+2020,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,55 years and over,1821.14
+2021,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Males,55 years and over,1877.88
+2017,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,55 years and over,1165.87
+2018,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,55 years and over,1177.4
+2019,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,55 years and over,1279.66
+2020,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,55 years and over,1264.58
+2021,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Males,55 years and over,1296.24
+2017,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,55 years and over,1094.01
+2018,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,55 years and over,1083.13
+2019,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,55 years and over,1475.54
+2020,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,55 years and over,1436.52
+2021,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Males,55 years and over,1502.24
+2017,Ontario,Average weekly wage rate,Office support occupations [14],Males,55 years and over,879.47
+2018,Ontario,Average weekly wage rate,Office support occupations [14],Males,55 years and over,1108.29
+2019,Ontario,Average weekly wage rate,Office support occupations [14],Males,55 years and over,961.92
+2020,Ontario,Average weekly wage rate,Office support occupations [14],Males,55 years and over,1198.34
+2021,Ontario,Average weekly wage rate,Office support occupations [14],Males,55 years and over,965.51
+2017,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,55 years and over,919.55
+2018,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,55 years and over,913.19
+2019,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,55 years and over,899.83
+2020,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,55 years and over,963.3
+2021,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Males,55 years and over,989.77
+2017,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,55 years and over,1544.75
+2018,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,55 years and over,1601.65
+2019,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,55 years and over,1702.31
+2020,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,55 years and over,1793.77
+2021,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Males,55 years and over,1721.36
+2017,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,55 years and over,1706.14
+2018,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,55 years and over,1752.38
+2019,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,55 years and over,1887.11
+2020,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,55 years and over,1970.21
+2021,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Males,55 years and over,1931.96
+2017,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,55 years and over,1347.92
+2018,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,55 years and over,1443.0
+2019,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,55 years and over,1476.59
+2020,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,55 years and over,1506.69
+2021,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Males,55 years and over,1397.39
+2017,Ontario,Average weekly wage rate,Health occupations [3],Males,55 years and over,1499.03
+2018,Ontario,Average weekly wage rate,Health occupations [3],Males,55 years and over,1346.26
+2019,Ontario,Average weekly wage rate,Health occupations [3],Males,55 years and over,1406.97
+2020,Ontario,Average weekly wage rate,Health occupations [3],Males,55 years and over,1420.72
+2021,Ontario,Average weekly wage rate,Health occupations [3],Males,55 years and over,1564.54
+2017,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,55 years and over,
+2018,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,55 years and over,1359.02
+2019,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,55 years and over,
+2020,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,55 years and over,
+2021,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Males,55 years and over,
+2017,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,55 years and over,2166.8
+2018,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,55 years and over,1846.52
+2019,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,55 years and over,1892.36
+2020,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,55 years and over,2329.18
+2021,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Males,55 years and over,2095.1
+2017,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,55 years and over,1135.31
+2018,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,55 years and over,1273.13
+2019,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,55 years and over,1391.94
+2020,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,55 years and over,1347.63
+2021,Ontario,Average weekly wage rate,Technical occupations in health [32],Males,55 years and over,1539.94
+2017,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,55 years and over,990.93
+2018,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,55 years and over,973.61
+2019,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,55 years and over,881.98
+2020,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,55 years and over,864.19
+2021,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Males,55 years and over,945.69
+2017,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,55 years and over,1624.51
+2018,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,55 years and over,1797.84
+2019,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,55 years and over,1806.91
+2020,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,55 years and over,1907.08
+2021,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Males,55 years and over,1851.31
+2017,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,55 years and over,1834.91
+2018,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,55 years and over,2005.84
+2019,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,55 years and over,1870.27
+2020,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,55 years and over,2146.42
+2021,Ontario,Average weekly wage rate,Professional occupations in education services [40],Males,55 years and over,2098.22
+2017,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,55 years and over,1543.84
+2018,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,55 years and over,1724.5
+2019,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,55 years and over,1772.01
+2020,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,55 years and over,1731.51
+2021,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Males,55 years and over,1722.89
+2017,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,55 years and over,994.43
+2018,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,55 years and over,1113.82
+2019,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,55 years and over,1241.3
+2020,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,55 years and over,1171.05
+2021,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Males,55 years and over,1185.81
+2017,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,55 years and over,
+2018,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,55 years and over,
+2019,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,55 years and over,
+2020,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,55 years and over,
+2021,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Males,55 years and over,
+2017,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,55 years and over,1204.43
+2018,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,55 years and over,1271.64
+2019,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,55 years and over,
+2020,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,55 years and over,
+2021,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Males,55 years and over,
+2017,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,55 years and over,1273.72
+2018,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,55 years and over,1143.05
+2019,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,55 years and over,1220.81
+2020,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,55 years and over,1534.25
+2021,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Males,55 years and over,1356.72
+2017,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,55 years and over,1422.01
+2018,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,55 years and over,1190.16
+2019,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,55 years and over,1274.55
+2020,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,55 years and over,1672.81
+2021,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Males,55 years and over,1610.1
+2017,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,55 years and over,1150.2
+2018,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,55 years and over,1122.18
+2019,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,55 years and over,1183.06
+2020,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,55 years and over,1304.21
+2021,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Males,55 years and over,1298.36
+2017,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,55 years and over,854.14
+2018,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,55 years and over,896.99
+2019,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,55 years and over,895.27
+2020,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,55 years and over,1007.38
+2021,Ontario,Average weekly wage rate,Sales and service occupations [6],Males,55 years and over,978.91
+2017,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,55 years and over,989.12
+2018,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,55 years and over,1115.38
+2019,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,55 years and over,1011.59
+2020,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,55 years and over,1212.27
+2021,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Males,55 years and over,1086.19
+2017,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,55 years and over,924.57
+2018,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,55 years and over,861.74
+2019,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,55 years and over,887.16
+2020,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,55 years and over,949.32
+2021,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Males,55 years and over,966.52
+2017,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,55 years and over,930.85
+2018,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,55 years and over,990.46
+2019,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,55 years and over,1013.0
+2020,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,55 years and over,1145.82
+2021,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Males,55 years and over,1151.09
+2017,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,55 years and over,759.14
+2018,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,55 years and over,774.77
+2019,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,55 years and over,763.62
+2020,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,55 years and over,871.89
+2021,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Males,55 years and over,839.99
+2017,Ontario,Average weekly wage rate,Sales support occupations [66],Males,55 years and over,601.25
+2018,Ontario,Average weekly wage rate,Sales support occupations [66],Males,55 years and over,638.5
+2019,Ontario,Average weekly wage rate,Sales support occupations [66],Males,55 years and over,659.56
+2020,Ontario,Average weekly wage rate,Sales support occupations [66],Males,55 years and over,693.69
+2021,Ontario,Average weekly wage rate,Sales support occupations [66],Males,55 years and over,690.17
+2017,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,55 years and over,727.97
+2018,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,55 years and over,812.95
+2019,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,55 years and over,819.12
+2020,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,55 years and over,856.18
+2021,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Males,55 years and over,819.78
+2017,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,55 years and over,1108.92
+2018,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,55 years and over,1098.43
+2019,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,55 years and over,1163.15
+2020,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,55 years and over,1218.47
+2021,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Males,55 years and over,1237.01
+2017,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,55 years and over,
+2018,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,55 years and over,1209.13
+2019,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,55 years and over,
+2020,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,55 years and over,
+2021,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Males,55 years and over,
+2017,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,55 years and over,
+2018,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,55 years and over,
+2019,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,55 years and over,
+2020,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,55 years and over,
+2021,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Males,55 years and over,
+2017,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,55 years and over,867.87
+2018,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,55 years and over,855.29
+2019,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,55 years and over,917.86
+2020,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,55 years and over,933.65
+2021,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Males,55 years and over,976.66
+2017,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,55 years and over,1004.17
+2018,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,55 years and over,998.86
+2019,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,55 years and over,1018.63
+2020,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,55 years and over,1096.76
+2021,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Males,55 years and over,1147.26
+2017,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,55 years and over,
+2018,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,55 years and over,
+2019,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,55 years and over,
+2020,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,55 years and over,
+2021,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Males,55 years and over,
+2017,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,55 years and over,899.43
+2018,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,55 years and over,1009.89
+2019,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,55 years and over,1090.85
+2020,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,55 years and over,
+2021,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Males,55 years and over,1250.07
+2017,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,55 years and over,
+2018,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,55 years and over,
+2019,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,55 years and over,
+2020,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,55 years and over,
+2021,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Males,55 years and over,
+2017,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,55 years and over,
+2018,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,55 years and over,962.13
+2019,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,55 years and over,1041.21
+2020,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,55 years and over,
+2021,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Males,55 years and over,973.48
+2017,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,55 years and over,
+2018,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,55 years and over,
+2019,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,55 years and over,
+2020,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,55 years and over,
+2021,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Males,55 years and over,
+2017,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,55 years and over,1000.55
+2018,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,55 years and over,967.05
+2019,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,55 years and over,1047.22
+2020,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,55 years and over,1087.8
+2021,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Males,55 years and over,1052.07
+2017,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,55 years and over,1382.3
+2018,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,55 years and over,1300.52
+2019,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,55 years and over,1433.5
+2020,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,55 years and over,1412.14
+2021,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Males,55 years and over,1397.12
+2017,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,55 years and over,881.77
+2018,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,55 years and over,919.8
+2019,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,55 years and over,979.84
+2020,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,55 years and over,993.39
+2021,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Males,55 years and over,978.93
+2017,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,55 years and over,940.44
+2018,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,55 years and over,936.93
+2019,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,55 years and over,960.6
+2020,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,55 years and over,1125.01
+2021,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Males,55 years and over,958.05
+2017,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,55 years and over,712.27
+2018,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,55 years and over,768.42
+2019,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,55 years and over,783.01
+2020,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,55 years and over,758.46
+2021,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Males,55 years and over,847.31
+2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1058.0
+2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1092.2
+2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1139.61
+2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1205.1
+2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1234.24
+2017,Ontario,Average weekly wage rate,Management occupations [0],Females,25 to 54 years,1662.97
+2018,Ontario,Average weekly wage rate,Management occupations [0],Females,25 to 54 years,1664.33
+2019,Ontario,Average weekly wage rate,Management occupations [0],Females,25 to 54 years,1726.96
+2020,Ontario,Average weekly wage rate,Management occupations [0],Females,25 to 54 years,1809.75
+2021,Ontario,Average weekly wage rate,Management occupations [0],Females,25 to 54 years,1864.36
+2017,Ontario,Average weekly wage rate,Senior management occupations [00],Females,25 to 54 years,2028.17
+2018,Ontario,Average weekly wage rate,Senior management occupations [00],Females,25 to 54 years,2383.68
+2019,Ontario,Average weekly wage rate,Senior management occupations [00],Females,25 to 54 years,2045.73
+2020,Ontario,Average weekly wage rate,Senior management occupations [00],Females,25 to 54 years,2413.99
+2021,Ontario,Average weekly wage rate,Senior management occupations [00],Females,25 to 54 years,2275.96
+2017,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,25 to 54 years,1779.73
+2018,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,25 to 54 years,1772.92
+2019,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,25 to 54 years,1848.72
+2020,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,25 to 54 years,1928.7
+2021,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,25 to 54 years,1998.68
+2017,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,25 to 54 years,1288.49
+2018,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,25 to 54 years,1168.72
+2019,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,25 to 54 years,1223.95
+2020,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,25 to 54 years,1271.58
+2021,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,25 to 54 years,1423.05
+2017,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,25 to 54 years,1472.32
+2018,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,25 to 54 years,1356.58
+2019,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,25 to 54 years,1610.29
+2020,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,25 to 54 years,1882.56
+2021,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,25 to 54 years,1710.53
+2017,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,25 to 54 years,1007.66
+2018,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,25 to 54 years,1036.66
+2019,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,25 to 54 years,1092.25
+2020,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,25 to 54 years,1141.11
+2021,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,25 to 54 years,1173.39
+2017,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,25 to 54 years,1308.73
+2018,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,25 to 54 years,1331.89
+2019,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,25 to 54 years,1427.94
+2020,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,25 to 54 years,1447.45
+2021,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,25 to 54 years,1458.49
+2017,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,25 to 54 years,969.86
+2018,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,25 to 54 years,968.63
+2019,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,25 to 54 years,1034.66
+2020,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,25 to 54 years,1077.11
+2021,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,25 to 54 years,1105.42
+2017,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,25 to 54 years,1018.19
+2018,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,25 to 54 years,1039.88
+2019,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,25 to 54 years,1080.13
+2020,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,25 to 54 years,1139.44
+2021,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,25 to 54 years,1081.34
+2017,Ontario,Average weekly wage rate,Office support occupations [14],Females,25 to 54 years,823.0
+2018,Ontario,Average weekly wage rate,Office support occupations [14],Females,25 to 54 years,840.89
+2019,Ontario,Average weekly wage rate,Office support occupations [14],Females,25 to 54 years,854.16
+2020,Ontario,Average weekly wage rate,Office support occupations [14],Females,25 to 54 years,882.08
+2021,Ontario,Average weekly wage rate,Office support occupations [14],Females,25 to 54 years,914.02
+2017,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,25 to 54 years,913.09
+2018,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,25 to 54 years,926.13
+2019,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,25 to 54 years,907.72
+2020,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,25 to 54 years,919.97
+2021,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,25 to 54 years,1016.52
+2017,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,25 to 54 years,1395.68
+2018,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,25 to 54 years,1297.45
+2019,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,25 to 54 years,1416.19
+2020,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,25 to 54 years,1469.35
+2021,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,25 to 54 years,1486.97
+2017,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,25 to 54 years,1485.3
+2018,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,25 to 54 years,1392.4
+2019,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,25 to 54 years,1521.26
+2020,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,25 to 54 years,1554.02
+2021,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,25 to 54 years,1588.46
+2017,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,25 to 54 years,1189.56
+2018,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,25 to 54 years,1137.57
+2019,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,25 to 54 years,1166.93
+2020,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,25 to 54 years,1279.27
+2021,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,25 to 54 years,1213.36
+2017,Ontario,Average weekly wage rate,Health occupations [3],Females,25 to 54 years,1135.23
+2018,Ontario,Average weekly wage rate,Health occupations [3],Females,25 to 54 years,1180.02
+2019,Ontario,Average weekly wage rate,Health occupations [3],Females,25 to 54 years,1195.33
+2020,Ontario,Average weekly wage rate,Health occupations [3],Females,25 to 54 years,1238.2
+2021,Ontario,Average weekly wage rate,Health occupations [3],Females,25 to 54 years,1239.03
+2017,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,25 to 54 years,1376.66
+2018,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,25 to 54 years,1371.98
+2019,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,25 to 54 years,1441.05
+2020,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,25 to 54 years,1462.49
+2021,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,25 to 54 years,1516.63
+2017,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,25 to 54 years,1384.74
+2018,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,25 to 54 years,1480.59
+2019,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,25 to 54 years,1586.91
+2020,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,25 to 54 years,1622.92
+2021,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,25 to 54 years,1519.07
+2017,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,25 to 54 years,1068.8
+2018,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,25 to 54 years,1099.73
+2019,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,25 to 54 years,1112.41
+2020,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,25 to 54 years,1148.75
+2021,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,25 to 54 years,1151.84
+2017,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,25 to 54 years,800.26
+2018,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,25 to 54 years,841.32
+2019,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,25 to 54 years,814.82
+2020,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,25 to 54 years,822.24
+2021,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,25 to 54 years,843.17
+2017,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,25 to 54 years,1214.63
+2018,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,25 to 54 years,1281.5
+2019,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,25 to 54 years,1279.97
+2020,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,25 to 54 years,1384.13
+2021,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,25 to 54 years,1371.96
+2017,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,25 to 54 years,1404.68
+2018,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,25 to 54 years,1435.08
+2019,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,25 to 54 years,1520.76
+2020,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,25 to 54 years,1565.44
+2021,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,25 to 54 years,1570.0
+2017,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,25 to 54 years,1391.47
+2018,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,25 to 54 years,1454.01
+2019,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,25 to 54 years,1400.31
+2020,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,25 to 54 years,1489.84
+2021,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,25 to 54 years,1520.37
+2017,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,25 to 54 years,869.25
+2018,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,25 to 54 years,937.01
+2019,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,25 to 54 years,927.05
+2020,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,25 to 54 years,988.83
+2021,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,25 to 54 years,952.9
+2017,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,25 to 54 years,1623.51
+2018,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,25 to 54 years,1732.31
+2019,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,25 to 54 years,1820.62
+2020,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,25 to 54 years,1876.18
+2021,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,25 to 54 years,1780.03
+2017,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,25 to 54 years,786.54
+2018,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,25 to 54 years,849.1
+2019,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,25 to 54 years,805.26
+2020,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,25 to 54 years,879.51
+2021,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,25 to 54 years,898.18
+2017,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,25 to 54 years,1018.14
+2018,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,25 to 54 years,984.26
+2019,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,25 to 54 years,1037.23
+2020,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,25 to 54 years,1171.83
+2021,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,25 to 54 years,1235.3
+2017,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,25 to 54 years,1175.88
+2018,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,25 to 54 years,1030.22
+2019,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,25 to 54 years,1103.86
+2020,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,25 to 54 years,1235.73
+2021,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,25 to 54 years,1330.73
+2017,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,25 to 54 years,922.97
+2018,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,25 to 54 years,954.18
+2019,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,25 to 54 years,1005.7
+2020,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,25 to 54 years,1120.53
+2021,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,25 to 54 years,1174.69
+2017,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,25 to 54 years,697.24
+2018,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,25 to 54 years,734.8
+2019,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,25 to 54 years,771.59
+2020,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,25 to 54 years,823.29
+2021,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,25 to 54 years,849.96
+2017,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,25 to 54 years,865.09
+2018,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,25 to 54 years,864.2
+2019,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,25 to 54 years,960.33
+2020,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,25 to 54 years,995.91
+2021,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,25 to 54 years,1031.84
+2017,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,25 to 54 years,711.81
+2018,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,25 to 54 years,714.07
+2019,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,25 to 54 years,733.93
+2020,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,25 to 54 years,810.22
+2021,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,25 to 54 years,790.49
+2017,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,25 to 54 years,714.99
+2018,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,25 to 54 years,750.98
+2019,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,25 to 54 years,799.57
+2020,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,25 to 54 years,896.15
+2021,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,25 to 54 years,880.6
+2017,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,25 to 54 years,655.18
+2018,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,25 to 54 years,735.0
+2019,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,25 to 54 years,736.56
+2020,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,25 to 54 years,761.81
+2021,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,25 to 54 years,823.48
+2017,Ontario,Average weekly wage rate,Sales support occupations [66],Females,25 to 54 years,581.65
+2018,Ontario,Average weekly wage rate,Sales support occupations [66],Females,25 to 54 years,610.95
+2019,Ontario,Average weekly wage rate,Sales support occupations [66],Females,25 to 54 years,600.02
+2020,Ontario,Average weekly wage rate,Sales support occupations [66],Females,25 to 54 years,609.03
+2021,Ontario,Average weekly wage rate,Sales support occupations [66],Females,25 to 54 years,666.12
+2017,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,25 to 54 years,566.02
+2018,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,25 to 54 years,629.48
+2019,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,25 to 54 years,640.89
+2020,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,25 to 54 years,687.43
+2021,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,25 to 54 years,687.36
+2017,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,25 to 54 years,806.32
+2018,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,25 to 54 years,846.62
+2019,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,25 to 54 years,911.33
+2020,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,25 to 54 years,844.86
+2021,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,25 to 54 years,957.01
+2017,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,25 to 54 years,895.24
+2018,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,25 to 54 years,897.99
+2019,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,25 to 54 years,1271.9
+2020,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,25 to 54 years,909.1
+2021,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,25 to 54 years,1032.37
+2017,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,25 to 54 years,976.48
+2018,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,25 to 54 years,1012.91
+2019,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,25 to 54 years,1107.34
+2020,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,25 to 54 years,1129.72
+2021,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,25 to 54 years,1088.49
+2017,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,25 to 54 years,628.53
+2018,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,25 to 54 years,728.6
+2019,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,25 to 54 years,689.86
+2020,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,25 to 54 years,675.72
+2021,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,25 to 54 years,799.55
+2017,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,25 to 54 years,870.59
+2018,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,25 to 54 years,854.26
+2019,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,25 to 54 years,831.98
+2020,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,25 to 54 years,904.38
+2021,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,25 to 54 years,1002.21
+2017,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,25 to 54 years,992.94
+2018,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,25 to 54 years,
+2019,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,25 to 54 years,
+2020,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,25 to 54 years,
+2021,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,25 to 54 years,
+2017,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,25 to 54 years,733.08
+2018,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,25 to 54 years,771.51
+2019,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,25 to 54 years,823.11
+2020,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,25 to 54 years,848.45
+2021,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,25 to 54 years,971.45
+2017,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,25 to 54 years,923.17
+2018,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,25 to 54 years,1035.31
+2019,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,25 to 54 years,
+2020,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,25 to 54 years,
+2021,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,25 to 54 years,1500.06
+2017,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,25 to 54 years,688.09
+2018,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,25 to 54 years,666.63
+2019,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,25 to 54 years,832.64
+2020,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,25 to 54 years,778.82
+2021,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,25 to 54 years,828.26
+2017,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,25 to 54 years,637.3
+2018,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,25 to 54 years,
+2019,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,25 to 54 years,
+2020,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,25 to 54 years,
+2021,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,25 to 54 years,798.01
+2017,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,25 to 54 years,714.26
+2018,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,25 to 54 years,771.01
+2019,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,25 to 54 years,832.97
+2020,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,25 to 54 years,803.44
+2021,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,25 to 54 years,853.61
+2017,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,25 to 54 years,952.5
+2018,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,25 to 54 years,985.49
+2019,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,25 to 54 years,1220.95
+2020,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,25 to 54 years,980.42
+2021,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,25 to 54 years,1309.35
+2017,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,25 to 54 years,674.97
+2018,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,25 to 54 years,731.54
+2019,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,25 to 54 years,798.0
+2020,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,25 to 54 years,790.61
+2021,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,25 to 54 years,780.12
+2017,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,25 to 54 years,764.15
+2018,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,25 to 54 years,812.42
+2019,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,25 to 54 years,817.39
+2020,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,25 to 54 years,800.9
+2021,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,25 to 54 years,811.28
+2017,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,25 to 54 years,618.12
+2018,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,25 to 54 years,665.37
+2019,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,25 to 54 years,694.23
+2020,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,25 to 54 years,668.01
+2021,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,25 to 54 years,697.58
+2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1038.15
+2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1064.9
+2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1100.28
+2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1154.73
+2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1187.72
+2017,Ontario,Average weekly wage rate,Management occupations [0],Females,55 years and over,1742.09
+2018,Ontario,Average weekly wage rate,Management occupations [0],Females,55 years and over,1736.42
+2019,Ontario,Average weekly wage rate,Management occupations [0],Females,55 years and over,1993.95
+2020,Ontario,Average weekly wage rate,Management occupations [0],Females,55 years and over,1944.97
+2021,Ontario,Average weekly wage rate,Management occupations [0],Females,55 years and over,1978.56
+2017,Ontario,Average weekly wage rate,Senior management occupations [00],Females,55 years and over,2205.96
+2018,Ontario,Average weekly wage rate,Senior management occupations [00],Females,55 years and over,1799.78
+2019,Ontario,Average weekly wage rate,Senior management occupations [00],Females,55 years and over,1871.17
+2020,Ontario,Average weekly wage rate,Senior management occupations [00],Females,55 years and over,2584.12
+2021,Ontario,Average weekly wage rate,Senior management occupations [00],Females,55 years and over,2205.8
+2017,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,55 years and over,1792.8
+2018,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,55 years and over,1794.91
+2019,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,55 years and over,2058.77
+2020,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,55 years and over,1939.39
+2021,Ontario,Average weekly wage rate,Specialized middle management occupations [01-05],Females,55 years and over,2093.0
+2017,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,55 years and over,1124.57
+2018,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,55 years and over,1399.68
+2019,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,55 years and over,1820.15
+2020,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,55 years and over,1914.3
+2021,Ontario,Average weekly wage rate,Middle management occupations in retail and wholesale trade and customer services [06],Females,55 years and over,1633.4
+2017,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,55 years and over,1526.7
+2018,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,55 years and over,1656.86
+2019,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,55 years and over,1596.12
+2020,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,55 years and over,1502.55
+2021,Ontario,Average weekly wage rate,"Middle management occupations in trades, transportation, production and utilities [07-09]",Females,55 years and over,1703.54
+2017,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,55 years and over,991.55
+2018,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,55 years and over,1031.98
+2019,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,55 years and over,1071.14
+2020,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,55 years and over,1132.05
+2021,Ontario,Average weekly wage rate,"Business, finance and administration occupations [1]",Females,55 years and over,1147.59
+2017,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,55 years and over,1403.32
+2018,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,55 years and over,1464.19
+2019,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,55 years and over,1595.18
+2020,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,55 years and over,1649.27
+2021,Ontario,Average weekly wage rate,Professional occupations in business and finance [11],Females,55 years and over,1746.67
+2017,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,55 years and over,975.64
+2018,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,55 years and over,1005.39
+2019,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,55 years and over,1077.32
+2020,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,55 years and over,1079.94
+2021,Ontario,Average weekly wage rate,Administrative and financial supervisors and administrative occupations [12],Females,55 years and over,1125.55
+2017,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,55 years and over,1050.78
+2018,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,55 years and over,1020.57
+2019,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,55 years and over,1045.59
+2020,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,55 years and over,1137.43
+2021,Ontario,Average weekly wage rate,"Finance, insurance and related business administrative occupations [13]",Females,55 years and over,1175.14
+2017,Ontario,Average weekly wage rate,Office support occupations [14],Females,55 years and over,848.75
+2018,Ontario,Average weekly wage rate,Office support occupations [14],Females,55 years and over,882.33
+2019,Ontario,Average weekly wage rate,Office support occupations [14],Females,55 years and over,912.22
+2020,Ontario,Average weekly wage rate,Office support occupations [14],Females,55 years and over,960.54
+2021,Ontario,Average weekly wage rate,Office support occupations [14],Females,55 years and over,960.29
+2017,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,55 years and over,815.71
+2018,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,55 years and over,885.86
+2019,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,55 years and over,838.56
+2020,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,55 years and over,969.99
+2021,Ontario,Average weekly wage rate,"Distribution, tracking and scheduling co-ordination occupations [15]",Females,55 years and over,924.98
+2017,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,55 years and over,1409.81
+2018,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,55 years and over,1457.13
+2019,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,55 years and over,1454.88
+2020,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,55 years and over,1599.82
+2021,Ontario,Average weekly wage rate,Natural and applied sciences and related occupations [2],Females,55 years and over,1559.8
+2017,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,55 years and over,1550.45
+2018,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,55 years and over,1573.83
+2019,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,55 years and over,1621.96
+2020,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,55 years and over,1717.6
+2021,Ontario,Average weekly wage rate,Professional occupations in natural and applied sciences [21],Females,55 years and over,1654.62
+2017,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,55 years and over,1200.55
+2018,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,55 years and over,1248.18
+2019,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,55 years and over,1174.39
+2020,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,55 years and over,1402.94
+2021,Ontario,Average weekly wage rate,Technical occupations related to natural and applied sciences [22],Females,55 years and over,1347.85
+2017,Ontario,Average weekly wage rate,Health occupations [3],Females,55 years and over,1135.94
+2018,Ontario,Average weekly wage rate,Health occupations [3],Females,55 years and over,1161.25
+2019,Ontario,Average weekly wage rate,Health occupations [3],Females,55 years and over,1153.45
+2020,Ontario,Average weekly wage rate,Health occupations [3],Females,55 years and over,1238.92
+2021,Ontario,Average weekly wage rate,Health occupations [3],Females,55 years and over,1235.19
+2017,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,55 years and over,
+2018,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,55 years and over,1428.15
+2019,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,55 years and over,
+2020,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,55 years and over,
+2021,Ontario,Average weekly wage rate,Professional occupations in nursing [30],Females,55 years and over,
+2017,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,55 years and over,1362.78
+2018,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,55 years and over,1631.15
+2019,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,55 years and over,1604.58
+2020,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,55 years and over,1703.12
+2021,Ontario,Average weekly wage rate,Professional occupations in health (except nursing) [31],Females,55 years and over,1737.07
+2017,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,55 years and over,1064.04
+2018,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,55 years and over,1066.06
+2019,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,55 years and over,1050.11
+2020,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,55 years and over,1127.87
+2021,Ontario,Average weekly wage rate,Technical occupations in health [32],Females,55 years and over,1197.03
+2017,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,55 years and over,830.92
+2018,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,55 years and over,839.15
+2019,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,55 years and over,816.2
+2020,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,55 years and over,857.61
+2021,Ontario,Average weekly wage rate,Assisting occupations in support of health services [34],Females,55 years and over,852.74
+2017,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,55 years and over,1316.56
+2018,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,55 years and over,1334.93
+2019,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,55 years and over,1306.61
+2020,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,55 years and over,1388.02
+2021,Ontario,Average weekly wage rate,"Occupations in education, law and social, community and government services [4]",Females,55 years and over,1454.99
+2017,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,55 years and over,1623.27
+2018,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,55 years and over,1665.48
+2019,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,55 years and over,1660.91
+2020,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,55 years and over,1857.85
+2021,Ontario,Average weekly wage rate,Professional occupations in education services [40],Females,55 years and over,1824.66
+2017,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,55 years and over,1444.48
+2018,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,55 years and over,1399.49
+2019,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,55 years and over,1421.77
+2020,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,55 years and over,1462.82
+2021,Ontario,Average weekly wage rate,"Professional occupations in law and social, community and government services [41]",Females,55 years and over,1559.75
+2017,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,55 years and over,1011.87
+2018,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,55 years and over,1023.69
+2019,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,55 years and over,965.91
+2020,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,55 years and over,963.7
+2021,Ontario,Average weekly wage rate,"Paraprofessional occupations in legal, social, community and education services [42]",Females,55 years and over,1080.55
+2017,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,55 years and over,
+2018,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,55 years and over,
+2019,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,55 years and over,
+2020,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,55 years and over,
+2021,Ontario,Average weekly wage rate,Occupations in front-line public protection services [43],Females,55 years and over,
+2017,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,55 years and over,840.61
+2018,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,55 years and over,826.29
+2019,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,55 years and over,
+2020,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,55 years and over,
+2021,Ontario,Average weekly wage rate,"Care providers and educational, legal and public protection support occupations [44]",Females,55 years and over,
+2017,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,55 years and over,967.72
+2018,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,55 years and over,1183.36
+2019,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,55 years and over,1246.13
+2020,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,55 years and over,1166.37
+2021,Ontario,Average weekly wage rate,"Occupations in art, culture, recreation and sport [5]",Females,55 years and over,1172.72
+2017,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,55 years and over,1077.7
+2018,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,55 years and over,1248.22
+2019,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,55 years and over,1443.41
+2020,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,55 years and over,1399.48
+2021,Ontario,Average weekly wage rate,Professional occupations in art and culture [51],Females,55 years and over,1501.27
+2017,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,55 years and over,808.22
+2018,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,55 years and over,1090.17
+2019,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,55 years and over,1104.29
+2020,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,55 years and over,999.93
+2021,Ontario,Average weekly wage rate,"Technical occupations in art, culture, recreation and sport [52]",Females,55 years and over,996.88
+2017,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,55 years and over,668.73
+2018,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,55 years and over,724.64
+2019,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,55 years and over,742.08
+2020,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,55 years and over,785.34
+2021,Ontario,Average weekly wage rate,Sales and service occupations [6],Females,55 years and over,837.72
+2017,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,55 years and over,821.2
+2018,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,55 years and over,811.95
+2019,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,55 years and over,936.28
+2020,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,55 years and over,998.83
+2021,Ontario,Average weekly wage rate,Retail sales supervisors and specialized sales occupations [62],Females,55 years and over,967.18
+2017,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,55 years and over,622.04
+2018,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,55 years and over,719.15
+2019,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,55 years and over,744.92
+2020,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,55 years and over,791.99
+2021,Ontario,Average weekly wage rate,Service supervisors and specialized service occupations [63],Females,55 years and over,902.94
+2017,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,55 years and over,653.5
+2018,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,55 years and over,707.74
+2019,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,55 years and over,728.88
+2020,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,55 years and over,762.91
+2021,Ontario,Average weekly wage rate,Sales representatives and salespersons - wholesale and retail trade [64],Females,55 years and over,849.69
+2017,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,55 years and over,735.13
+2018,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,55 years and over,757.38
+2019,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,55 years and over,741.56
+2020,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,55 years and over,836.76
+2021,Ontario,Average weekly wage rate,Service representatives and other customer and personal services occupations [65],Females,55 years and over,862.68
+2017,Ontario,Average weekly wage rate,Sales support occupations [66],Females,55 years and over,524.36
+2018,Ontario,Average weekly wage rate,Sales support occupations [66],Females,55 years and over,582.01
+2019,Ontario,Average weekly wage rate,Sales support occupations [66],Females,55 years and over,575.15
+2020,Ontario,Average weekly wage rate,Sales support occupations [66],Females,55 years and over,617.93
+2021,Ontario,Average weekly wage rate,Sales support occupations [66],Females,55 years and over,677.32
+2017,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,55 years and over,615.23
+2018,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,55 years and over,699.63
+2019,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,55 years and over,661.89
+2020,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,55 years and over,677.59
+2021,Ontario,Average weekly wage rate,"Service support and other service occupations, n.e.c. [67]",Females,55 years and over,718.16
+2017,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,55 years and over,874.55
+2018,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,55 years and over,930.8
+2019,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,55 years and over,874.38
+2020,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,55 years and over,810.61
+2021,Ontario,Average weekly wage rate,"Trades, transport and equipment operators and related occupations [7]",Females,55 years and over,883.28
+2017,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,55 years and over,
+2018,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,55 years and over,1045.71
+2019,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,55 years and over,
+2020,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,55 years and over,
+2021,Ontario,Average weekly wage rate,"Industrial, electrical and construction trades [72]",Females,55 years and over,
+2017,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,55 years and over,
+2018,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,55 years and over,
+2019,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,55 years and over,
+2020,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,55 years and over,
+2021,Ontario,Average weekly wage rate,Maintenance and equipment operation trades [73],Females,55 years and over,
+2017,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,55 years and over,685.55
+2018,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,55 years and over,766.84
+2019,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,55 years and over,649.14
+2020,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,55 years and over,617.84
+2021,Ontario,Average weekly wage rate,"Other installers, repairers and servicers and material handlers [74]",Females,55 years and over,812.53
+2017,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,55 years and over,888.86
+2018,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,55 years and over,963.63
+2019,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,55 years and over,1015.9
+2020,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,55 years and over,982.59
+2021,Ontario,Average weekly wage rate,Transport and heavy equipment operation and related maintenance occupations [75],Females,55 years and over,837.09
+2017,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,55 years and over,
+2018,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,55 years and over,
+2019,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,55 years and over,
+2020,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,55 years and over,
+2021,Ontario,Average weekly wage rate,"Trades helpers, construction labourers and related occupations [76]",Females,55 years and over,
+2017,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,55 years and over,746.7
+2018,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,55 years and over,727.86
+2019,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,55 years and over,802.27
+2020,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,55 years and over,
+2021,Ontario,Average weekly wage rate,"Natural resources, agriculture and related production occupations [8]",Females,55 years and over,803.49
+2017,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,55 years and over,
+2018,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,55 years and over,
+2019,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,55 years and over,
+2020,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,55 years and over,
+2021,Ontario,Average weekly wage rate,"Supervisors and technical occupations in natural resources, agriculture and related production [82]",Females,55 years and over,
+2017,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,55 years and over,
+2018,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,55 years and over,688.54
+2019,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,55 years and over,691.94
+2020,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,55 years and over,
+2021,Ontario,Average weekly wage rate,"Workers in natural resources, agriculture and related production [84]",Females,55 years and over,770.15
+2017,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,55 years and over,
+2018,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,55 years and over,
+2019,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,55 years and over,
+2020,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,55 years and over,
+2021,Ontario,Average weekly wage rate,"Harvesting, landscaping and natural resources labourers [86]",Females,55 years and over,
+2017,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,55 years and over,725.06
+2018,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,55 years and over,741.11
+2019,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,55 years and over,757.46
+2020,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,55 years and over,793.05
+2021,Ontario,Average weekly wage rate,Occupations in manufacturing and utilities [9],Females,55 years and over,751.5
+2017,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,55 years and over,987.02
+2018,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,55 years and over,997.64
+2019,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,55 years and over,1056.92
+2020,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,55 years and over,1063.37
+2021,Ontario,Average weekly wage rate,"Processing, manufacturing and utilities supervisors and central control operators [92]",Females,55 years and over,883.36
+2017,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,55 years and over,703.7
+2018,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,55 years and over,688.85
+2019,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,55 years and over,740.66
+2020,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,55 years and over,778.69
+2021,Ontario,Average weekly wage rate,Processing and manufacturing machine operators and related production workers [94],Females,55 years and over,743.67
+2017,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,55 years and over,735.69
+2018,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,55 years and over,855.81
+2019,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,55 years and over,785.52
+2020,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,55 years and over,801.59
+2021,Ontario,Average weekly wage rate,Assemblers in manufacturing [95],Females,55 years and over,770.65
+2017,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,55 years and over,612.71
+2018,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,55 years and over,657.11
+2019,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,55 years and over,667.23
+2020,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,55 years and over,697.39
+2021,Ontario,Average weekly wage rate,"Labourers in processing, manufacturing and utilities [96]",Females,55 years and over,688.87
