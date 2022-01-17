@@ -53,7 +53,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 | Objective|Location |
 |----|----|
 | Presentation | [Link to Google Slides](https://docs.google.com/presentation/d/12sRunD2lhAb3iMmoYrPP1e33THfheji_Kfs108casYw/edit?usp=sharing) |
-| Database Integration | *code to GitHub Master Branch - Link to jupyter notebook and SQL files |
+| Database Integration | https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList.sql                             https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/StatsCan_Ontario_dummy_for_import.ipynb                               https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList_dummy_for_import.ipynb |
 | Exploratory Analysis | *Will be added in later segments*   |
 | Machine Learning code and output | [Link to ML model  for segment 1](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Segment_1_ML_Mockup_Ben_modified.ipynb)   |
 
@@ -120,7 +120,7 @@ In order to import the cleansed CSV files in PostgreSQL, you must do the followi
 https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv  
 
 For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019:
-* Link to be added 
+https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/SunShine.csv
 
 
 Data cleansing process: 
@@ -164,8 +164,7 @@ For our database, we will be using both PostgreSQL and MongoDB.  We will be host
 ###### PostgreSQL Database
 The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database.
 
-<img width="200" alt="ERD pgerd" src="https://user-images.githubusercontent.com/89538802/149167141-255e1c91-4b0e-4f78-8fe1-75afccafc27d.png">
-*Reco using different software for ERD--the SQL one is not pretty*
+<img width="800" alt="ERD" src="https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Resources/ERD_v1.png">
 
 ###### MongoDb 
 To be worked on in later segments.
