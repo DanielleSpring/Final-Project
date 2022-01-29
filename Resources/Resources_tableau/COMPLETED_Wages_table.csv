@@ -1,0 +1,21 @@
+index,year,province,wage_frequency,noc,gender,age_group,weekly_wage,annual_wage
+0,2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1250,65000
+1,2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1283,66716
+2,2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1314,68328
+3,2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1388,72176
+4,2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,25 to 54 years,1427,74204
+255,2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1253,65156
+256,2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1278,66456
+257,2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1313,68276
+258,2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1417,73684
+259,2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Males,55 years and over,1425,74100
+510,2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1058,55016
+511,2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1092,56784
+512,2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1139,59228
+513,2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1205,62660
+514,2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,25 to 54 years,1234,64168
+765,2017,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1038,53976
+766,2018,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1064,55328
+767,2019,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1100,57200
+768,2020,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1154,60008
+769,2021,Ontario,Average weekly wage rate,"Total employees, all occupations",Females,55 years and over,1187,61724
