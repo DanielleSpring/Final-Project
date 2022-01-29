@@ -28,7 +28,8 @@ The Sunshine list is annual list includes public sector employees in Ontario who
 ### Objective:
 By analyzing public sector incomes for those employees who earned over $100,000 annually, we seek to determine if the yearly publication can be used to evaluate fairness in the Ontario workforce. In our analysis we will be using the data to determine trends based on salaries, gender and potentially regions (urban vs rural). The sunshine list does not denote gender or location therefore we will use machine learning tools to predict gender and data cleansing teachniques to identify location.
 
-<img width="500" alt="Network Architecture" src="https://user-images.githubusercontent.com/89538802/149169406-e4e8e101-9d9e-49c8-aa2c-3290f08e3e93.png">
+![flow_chart](https://user-images.githubusercontent.com/88908758/151652042-9a405877-10fb-4ce9-a3d4-0ce224824a40.PNG)
+
 
 ### Why did we choose this topic?:
 We chose this topic for the following reasons:
@@ -55,9 +56,18 @@ Given the data available, can we use 25 years of data to determine whether the O
 - Which top-earning positions or person’s have continued to receive generous raises while lower seniority roles may have endured wages freezes and cutbacks?
 - How many of the top earners are women?
 
+## **Data Pipeline:**
+
+![data_flow](https://user-images.githubusercontent.com/88908758/151651923-2b34ab1a-ee65-4ebf-9ac3-b3dfbd268e4e.PNG)
 
 
-### Locations of Project Deliverables for Segment 1:
+## **Below is a detailed process of how data will flow:**
+
+![pipeline](https://user-images.githubusercontent.com/88908758/151651947-762797e8-a307-44ad-8c89-71f59d6578e8.png)
+
+## 
+
+### Locations of Project Deliverables:
 
 | Objective|Location |
 |----|----|
@@ -93,6 +103,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 * Css 
 * Bootstrap
 
+##
 ## **Data Exploration Phase:**
 ### ETL Process 
 
@@ -224,16 +235,19 @@ Pending data analysis, some preliminary thoughts on how our dashboard will be pr
 
 - Gender Gap, Roles, Trends
 
+Below is a preliminary view of how the dashboard story will look like.
 
-*Insert Image of Dashboard*
+![dashboard](https://user-images.githubusercontent.com/88908758/151651653-2a693df4-04d9-4787-b28e-d253c8bd6b8b.PNG)
+
 
 ## **Analysis Results:**
 To be presented in future segments.
 
 
 ## **Recommendations for Future Analysis:**
-
-To be presented in future segments.
+- Predict age for everyone on the sunshine list using machine learning techniques.
+- Conduct a sentimental analysis on twitter feeds using machine learning to identify relavence of the sunshine list and having a positive or negative impact.
+- Webscrapping to the sunshine list website in order to have the updated list every year.
 
 # Thank You 
 
