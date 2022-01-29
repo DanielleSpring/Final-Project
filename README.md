@@ -1,6 +1,7 @@
 # **Sunshine List:**  Can it be used to evaluate fairness in the Ontario workforce?
 University of Toronto Data Analytics Bootcamp Final Project
 
+## [Link to final project webpage](https://shaza-safi.github.io/Final-Project-Website/)
 ![SunshineList1280x720___Gallery](https://user-images.githubusercontent.com/89538802/148806480-0441cc3f-635b-4d6e-95f3-7d15c40b278a.jpg)
 
 
@@ -25,7 +26,7 @@ NOTE: While members are assigned specific roles, we all work together on each pa
 The Sunshine list is annual list includes public sector employees in Ontario who earned over $100,000 last year. The list is mandated by the Public Sector Salary Disclosure Act enacted by the Ontario government under Premier Mike Harris, with the first list released in 1996.
 
 ### Objective:
-By analyzing public sector incomes for those employees who earned over $100,000 annually, we seek to determine if the yearly publication can be used to evaluate fairness in the Ontario workforce.  In our analysis we will be using the data to determine trends based on salaries, gender and potentially age and regions (urban vs rural). In addition, we will be reviewing public sentiment through twitter feeds. The sunshine list does not denote gender, age or location therefore we will use machine learning tools to predict gender/age and data cleansing teachniques to identify location. 
+By analyzing public sector incomes for those employees who earned over $100,000 annually, we seek to determine if the yearly publication can be used to evaluate fairness in the Ontario workforce. In our analysis we will be using the data to determine trends based on salaries, gender and potentially regions (urban vs rural). The sunshine list does not denote gender or location therefore we will use machine learning tools to predict gender and data cleansing teachniques to identify location.
 
 <img width="500" alt="Network Architecture" src="https://user-images.githubusercontent.com/89538802/149169406-e4e8e101-9d9e-49c8-aa2c-3290f08e3e93.png">
 
@@ -61,40 +62,36 @@ Given the data available, can we use 25 years of data to determine whether the O
 | Objective|Location |
 |----|----|
 | Presentation | [Link to Google Slides](https://docs.google.com/presentation/d/12sRunD2lhAb3iMmoYrPP1e33THfheji_Kfs108casYw/edit?usp=sharing) |
-| Database Integration | [Link to Sunshine SQL file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList.sql),                           [Link to Stats Canada ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/StatsCan_Ontario_dummy_for_import.ipynb),                             [Link to Sunshine ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList_dummy_for_import.ipynb) |
-| Exploratory Analysis | *Will be added in later segments*   |
-| Machine Learning code and output | [Link to ML model  for segment 1](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Segment_1_ML_Mockup_Ben_modified.ipynb)   |
+| Database Integration | [Link to Sunshine SQL file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList.sql),                           [Link to Stats Canada ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/StatsCan_Ontario_cleansing.ipynb),                             [Link to Sunshine ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList_DataCleansing.ipynb) |
+| Exploratory Analysis | *To be added in*   |
+| Data Analysis | *To be added in* |
+| Machine Learning code and output | [Link to ML model](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Data Bootcamp Capstone Project Machine Learning Model - Ben.ipynb)   |
 
 
 ## **Technologies & Tools Used:**
 
 ### Tools:
 * PostgreSQL used to house the Sunshine list and Statistics Canada data
-* MongoDB used to house the twitter feed data (to be worked on in later segments)
-* Tableau used to display Dashboard (to be worked on in later segments)
-* Jupyter Notebook used for data extraction/transformation, data analysis (to be worked on in later segments) and machine learning model
+* Tableau used to display Dashboard
+* Jupyter Notebook used for data extraction/transformation, data analysis and machine learning model
 * GitHub 
-* Heroku used for hosting 
-* Flask
+* AWS used for hosting 
 * Quick Database Diagram used for ERD https://app.quickdatabasediagrams.com/#/
 
 ### Languages:
 * Python
 * SQL
-* JavaScript, HTML (to be added on in later segments)
+* JavaScript, HTML 
 
 ### Libraries:
 * pandas
 * Regular Expression RegEx
-* Matplotlib (to be worked on in later segments)
-* Beautisoup (to be worked on in later segments)
-* ChromeDriverManager (to be worked on in later segments)
-* Browser (to be worked on in later segments)
+* Matplotlib 
 * random 
 * nltk
 * sklearn
-* Leaflet (to be worked on in later segments)
-* Css (to be worked on in later segments)
+* Css 
+* Bootstrap
 
 ## **Data Exploration Phase:**
 ### ETL Process 
@@ -181,10 +178,6 @@ The image below represents the tables of data that are uploaded onto the databas
 
 <img width="800" alt="ERD" src="https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Resources/ERD_v1.png">
 
-###### MongoDb 
-To be worked on in later segments.
-
-
 ### **Data Analysis Phase:**
 - Trend and insight analysis will be done in later segments. 
 - Further data cleansing required on the sunshine list "first name" column to be used for gender & age identification.
@@ -211,24 +204,6 @@ From there, we instantiate a naive Bayes classification model (classifier) and t
 Lastly, a basic accuracy score is generated for evaluating the model.
 
 ![Accuracy_InitialModel](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/Accuracy_InitialModel.png)
-
-### Explanation of Model Choice (Including Limitations & Benefits):
-TBD further during the project
-
-## **Machine Learning: Sentiment**
-*Note that this part of machine learning will not be done during segmeent 1 and will be elaborated during the next segment.
-
-### Preliminary Data Processing:
-
-
-### Initial Classification - to be determined
-
-
-### Splitting Data Into Testing & Training sets:
-
-
-### Explanation of Model Choice (Including Limitations & Benefits):
-
 
 ## **Dashboard:**
 We will use Tableau to create our Dashboard and use HeroKu to host it. It will be directly tied to our PostgreSQL and MongoDb database and linked to our project website.
