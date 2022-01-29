@@ -65,7 +65,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 | Database Integration | [Link to Sunshine SQL file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList.sql),                           [Link to Stats Canada ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/StatsCan_Ontario_cleansing.ipynb),                             [Link to Sunshine ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList_DataCleansing.ipynb) |
 | Exploratory Analysis | *To be added in*   |
 | Data Analysis | *To be added in* |
-| Machine Learning code and output | [Link to ML model](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Data Bootcamp Capstone Project Machine Learning Model - Ben.ipynb)   |
+| Machine Learning code and output | [Link to ML model](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/DataBootcampCapstoneProjectMachineLearningModel-Ben.ipynb)   |
 
 
 ## **Technologies & Tools Used:**
