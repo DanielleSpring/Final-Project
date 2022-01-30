@@ -80,6 +80,7 @@ The following aspects of the original project scope have been placed in our park
 - twitter sentiment analysis
 - age prediction based on first name
 - hosting has been switched from Heroku to AWS
+- initial intention was to scrape the Sunshine list from the Ontario government website to create a consolidated listing.  A kaggle dataset + an addition 2020 CSV file were used as an alternative due to time constrainsts.
       
 
 ## **Technologies & Tools Used:**
@@ -115,57 +116,43 @@ The following aspects of the original project scope have been placed in our park
 
 
 #### 1) Extract
-##### **Data Sources:**
-Ontario Sunshine List for 2020: https://www.ontario.ca/page/public-sector-salary-disclosure
-
-kaggle Ontario Sunshine List 1996 to 2019 consolided raw data file : https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list
-
+CSV files from various sources were used create our database.
 Stats Canada - Employee wages by occupation, annual: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034001
 
 Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601
 
 
-#### 2) Transfrom
+
 
 
 ##### **Sunshine List**
 
-| Data |raw data CSV |
-|----|----|
-| Kaggle consoidated 1996-2019 | [Sunshine 1996-2019 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/SunShine.csv) |
-| Ontario Sunshine List 2020 | [Sunshine List 2020 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv) |
+| Data | Data Sources |raw data CSV |
+|----|----|----|
+| Kaggle consoidated 1996-2019 |https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list|  [Sunshine 1996-2019 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/SunShine.csv) |
+| Ontario Sunshine List 2020 |https://www.ontario.ca/page/public-sector-salary-disclosure|  [Sunshine List 2020 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv) |
 
  
 ##### **Ontario Wages - Stats Canada**
-* Links to raw csv files:
 
-[Stats Can Male 25-54](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_25to54.csv)
+| Data | Data Sources |Raw Data CSV |
+|----|----|----|
+| Statistics Canada Male 25-54 |https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034001|  [Stats Can Male 25-54](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_25to54.csv) |
+| Statistics Canada Male 55 or older |https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034001|  [Stats Can Male 55 or older](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_55Older.csv) |
+| Statistics Canada Female 25-54 |https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034001|  [Stats Can Female 25-54](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_25to54.csv)|
+| Statistics Canada Female 55 or older |https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034001|  [Stats Can Female 55 or older](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_55Older.csv)|
 
-[Stats Can Male 55 or older](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Male_55Older.csv)
-
-[Stats Can Female 25-54](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_25to54.csv)
-
-[Stats Can Female 55 or older](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/StatsCan_Wage_Female_55Older.csv)
-
-Datasets in the forms of CSV were pulled from Statistics Canada using the following filters:
-
-- Geography: Ontario
-- Wages: Average Weekly Wage
-- Reference Period: 1997 to 2021
-- Type of Work: Full Time*
-- Sexes:  Male and Female
-- Age Group:  25 to 54 years and >55 years old
-    
-Definitions:
-- Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.
-- NOC stands for National Occupational Classification
-
-NOTE: CSV for Database Loading were used for downloads.
  
 ##### **CPI - Stats Canada**
-* Link to raw csv file:
+| Data | Data Sources |Raw Data CSV |
+|----|----|----|
+| Statistics Canada Inflation |https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601
+|  [Stats Can CPI](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv) |
 
 [Stats Can CPI](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv)
+
+
+#### 2) Transfrom
 
 #### 3) Load
 ##### **Database:**
