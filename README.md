@@ -116,14 +116,7 @@ The following aspects of the original project scope have been placed in our park
 
 
 #### 1) Extract
-CSV files from various sources were used create our database.
-Stats Canada - Employee wages by occupation, annual: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410034001
-
-Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601
-
-
-
-
+CSV files from various sources were used create our database. Sources and links to raw data CSV files are noted below.
 
 ##### **Sunshine List**
 
@@ -146,10 +139,7 @@ Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=
 ##### **CPI - Stats Canada**
 | Data | Data Sources |Raw Data CSV |
 |----|----|----|
-| Statistics Canada Inflation |https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601
-|  [Stats Can CPI](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv) |
-
-[Stats Can CPI](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv)
+| Statistics Canada Inflation |https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601|  [Stats Can CPI](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/OntarioCPI_databaseLoadingData.csv) |
 
 
 #### 2) Transfrom
