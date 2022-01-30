@@ -22,23 +22,27 @@ SELECT * FROM cpi_table;
 SELECT * FROM city_table;
 
 
+--Check data imported on stats canada
+SELECT year
+FROM ontario_wage_table
+GROUP BY year
+ORDER BY year ASC
+
+SELECT year
+FROM cpi_table
+GROUP BY year
+ORDER BY year ASC
+
 -- **************************************************************************************************************************
 --Update queries must be run to populate all records in the sunshine table with the gender.  Age ML is currently on hold.
 --****************************************************************************************************************************
+
 
 --Update Sunshine table with age
 -- UPDATE sunshine_table * AS s
 -- SET age=f.age
 -- FROM sunshine_unique_first_name as f
 -- WHERE f.first_name=s.first_name
-
---STEP 0 Trim both sunshine and sunshine unique first name , first name columns
-UPDATE sunshine_table
-SET first_name=LTRIM(RTRIM(first_name))
-
-UPDATE sunshine_unique_first_name
-SET first_name=LTRIM(RTRIM(first_name))
-
 
 --STEP1
 --Update Sunshine table with gender
@@ -85,7 +89,7 @@ SELECT COUNT (first_name)
 FROM sunshine_table as s
 WHERE s.gender='M' or s.gender='F'
 
---Review that all genders labels are M or F
+--Review that all genders where labels are NOT M or F
 SELECT * FROM sunshine_table as s
 EXCEPT
 SELECT * FROM sunshine_table as s
@@ -144,6 +148,36 @@ AVG(salary_paid) AS avgS,
 FROM sunshine_table
 WHERE year=2020;
 
+-- STEP 6
+--Update Column for Salary Bins based on salary_paid using python Analysis file for bin sizes
+--Bins 100K-130K, 130K-200K, 200K-500K, 500K-1M, >1M
+UPDATE sunshine_table 
+SET salary_bin='$100000 to $129999'
+WHERE salary_paid<130000
+
+UPDATE sunshine_table 
+SET salary_bin='$130,000 to $199,999'
+WHERE salary_paid >= 130000
+
+UPDATE sunshine_table 
+SET salary_bin='$200,000 to %499,999'
+WHERE salary_paid >=200000
+
+UPDATE sunshine_table 
+SET salary_bin='$500,000 to %999,999'
+WHERE salary_paid >=500000
+
+UPDATE sunshine_table 
+SET salary_bin='>$1Million'
+WHERE salary_paid >=1000000
+
+--check that all salary bins have been populated
+SELECT *
+FROM sunshine_table
+WHERE salary_bin is NULL
+
+
+
 -- --Show the salary_paid in 5 equal width bins
 -- SELECT * FROM sunshine_table
 -- salary_paid = pd.cut(sunshine_table.salary_paid, 5)
@@ -169,7 +203,7 @@ WHERE last_first_name LIKE '%Yelle-Weatherall_Joanne%'
 ORDER BY year ASC
 
 
---STEP 6
+--STEP 7
 --Correct 2006 salary for Yelle-Weatherall_Joanne, Director Operations, Elisabeth-Bruyère Research Institute working for SCO Health Service
 --UPDATE salary_paid
 UPDATE sunshine_table 
@@ -177,7 +211,7 @@ SET salary_paid='127455'
 WHERE last_first_name LIKE '%Yelle-Weatherall_Joanne%' AND year=2006
 
 
--- STEP 7
+-- STEP 8
 --UPDATE total compensation
 UPDATE sunshine_table 
 SET total_compensation= salary_paid + taxable_benefits
@@ -197,7 +231,7 @@ WHERE last_first_name LIKE '%Harris_Stephen%'
 ORDER BY year ASC
 
 
--- STEP 8
+-- STEP 9
 --Correct 2006 salary for Harris_Stephen, Staff Inspector, for City of Toronto
 --UPDATE salary_paid
 UPDATE sunshine_table 
@@ -205,7 +239,7 @@ SET salary_paid='128059'
 WHERE last_first_name LIKE '%Harris_Stephen%' AND year=2006
 
 
--- STEP 9
+-- STEP 10
 --UPDATE total compensation
 UPDATE sunshine_table 
 SET total_compensation= salary_paid + taxable_benefits
