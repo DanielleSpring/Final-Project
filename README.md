@@ -70,7 +70,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 | Presentation | [Link to Google Slides](https://docs.google.com/presentation/d/12sRunD2lhAb3iMmoYrPP1e33THfheji_Kfs108casYw/edit?usp=sharing) |
 | Database Integration | [Link to Sunshine SQL file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList.sql),                           [Link to Stats Canada ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/StatsCan_Ontario_cleansing.ipynb),                             [Link to Sunshine ipynb file](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/SunshineList_DataCleansing.ipynb) |
 | Data Analysis | *To be added in* |
-| Machine Learning code and output | [Link to ML model](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/DataBootcampCapstoneProjectMachineLearningModel-Ben.ipynb)   |
+| Machine Learning code and output | [Link to ML model](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Machine_Learning_Model_Gender_Prediction.ipynb) |
 
 ### Changes from Seg1 submission to Seg2 submission
 The following aspects of the original project scope have been placed in our parking lot due to insufficient resources for time allotted.
@@ -171,6 +171,9 @@ For this segment we have used a library installed that will automatically import
 
 
 ### Splitting Data Into Testing & Training sets:
+
+#### Inital Testing:
+Initial testing was done using NLTK library Male and Female name list  
 A labelled class list is created using the following code:
 
 ![labels](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/labels.png)
@@ -183,22 +186,32 @@ Lastly, a basic accuracy score is generated for evaluating the model.
 
 ![Accuracy_InitialModel](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/Accuracy_InitialModel.png)
 
+#### Improved Testing and Training:
+
+Splitting US Social Security Name data into a training/testing set to test accuracy of model using just the training data (US Social Security Name Data) before passing Sunshine List unique first names data to model.
+
+A hybrid model is then created which improved the accuracy.
+![hybrid_accuracy](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/hybrid_accuracy.PNG)
 
 ###  Model Choice
 Our model has used two types of machine learning: Relative frequency classifier and Natural Language Toolkit (NLTK), a Python library that used supervised classification to determine a gender class (output) for each input (given name)
 
 #### Limitations
-
+- If first name is not on the US Social Security names dataframe the Relative frequency classifier cannot give a gender prediction. 
 
 #### Benefits
+- The use of a hybrid model (Relative frequency classifier and Natural Language Toolkit (NLTK)) ensures that all first names have a gender prediction. 
 
-
-
+#### Model Change Explainations:
+- Initially only the NLTK was used to identify gender with accuracy level of 76.1% 
+- As an attemp to increase the accurancy of the model we introduced a secondary model Relative Frequency Classifier which increased the accuracy to 78.7% 
 
 ## **Dashboard:**
 We will use Tableau to create our Dashboard, which will be hosted on AWS. for the purpose of segement 2 sumbission, we will have our draft Dashboard data model built using CSV file exports from our SQL database.  Below is a preliminary blueprint of what the dashboard will look like.
 
 ![dashboard](https://user-images.githubusercontent.com/88908758/151651653-2a693df4-04d9-4787-b28e-d253c8bd6b8b.PNG)
+
+[The link to our Preliminary tableau dashboard](https://public.tableau.com/views/Sunshine_Dashboard_Workbook/Gender_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Interactive elements which will be incorporated into the Dashboard are:
 - interactive filters
@@ -240,3 +253,7 @@ To be presented in future segments.
 
 ### Consolidated SunShine List (raw data)
 Sahid Veliji for creating consolidated historical sunshine list (1996-2019)  and posting to kaggle.com ![The Ontario Sunshine List](https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list)
+
+### Analyzing the Gender Wage-gap in Ontario’s Public Sector
+https://atrium.lib.uoguelph.ca/xmlui/handle/10214/9653?show=full
+
