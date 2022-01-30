@@ -59,7 +59,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 ![data_flow](https://user-images.githubusercontent.com/88908758/151651923-2b34ab1a-ee65-4ebf-9ac3-b3dfbd268e4e.PNG)
 
 
-## **Below is a detailed process of how data will flow:**
+## **Pipeline Assembly Instructions:**
 
 ![pipeline](https://user-images.githubusercontent.com/88908758/151651947-762797e8-a307-44ad-8c89-71f59d6578e8.png)
 
