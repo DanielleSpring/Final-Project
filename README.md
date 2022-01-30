@@ -186,7 +186,7 @@ Lastly, a basic accuracy score is generated for evaluating the model.
 
 
 ###  Model Choice
-
+Our model has used two types of machine learning: Relative frequency classifier and Natural Language Toolkit (NLTK), a Python library that used supervised classification to determine a gender class (output) for each input (given name)
 
 #### Limitations
 
