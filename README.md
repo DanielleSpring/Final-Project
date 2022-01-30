@@ -201,6 +201,11 @@ We will use Tableau to create our Dashboard, which will be hosted on AWS. for th
 
 ![dashboard](https://user-images.githubusercontent.com/88908758/151651653-2a693df4-04d9-4787-b28e-d253c8bd6b8b.PNG)
 
+Interactive elements which will be incorporated into the Dashboard are:
+- interactive filters
+- highlighting
+
+
 Pending data analysis, some preliminary thoughts on how our dashboard will be presented are listed below: 
 
 - Summary Analysis - Top Earners, Top positions, 
