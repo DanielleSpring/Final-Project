@@ -53,9 +53,11 @@ Given the data available, can we use 25 years of data to determine whether the O
 - How many of the top earners are women?
 
 
-## **Data Pipeline with Assembly Instructions:**
+## **Data Pipeline:**
 
 ![flow_chart](https://user-images.githubusercontent.com/88908758/151652042-9a405877-10fb-4ce9-a3d4-0ce224824a40.PNG)
+
+##  Pipeline Assembly Instructions
 
 ![pipeline](https://user-images.githubusercontent.com/88908758/151651947-762797e8-a307-44ad-8c89-71f59d6578e8.png)
 
