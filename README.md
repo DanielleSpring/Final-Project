@@ -55,7 +55,7 @@ Given the data available, can we use 25 years of data to determine whether the O
 
 ## **Data Pipeline:**
 
-![flow_chart](https://user-images.githubusercontent.com/88908758/151652042-9a405877-10fb-4ce9-a3d4-0ce224824a40.PNG)
+![flow_chart](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/Revised_ArchitectureDiagram.png)
 
 ##  Pipeline Assembly Instructions
 
