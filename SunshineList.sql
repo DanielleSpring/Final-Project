@@ -160,11 +160,11 @@ SET salary_bin='$130,000 to $199,999'
 WHERE salary_paid >= 130000
 
 UPDATE sunshine_table 
-SET salary_bin='$200,000 to %499,999'
+SET salary_bin='$200,000 to $499,999'
 WHERE salary_paid >=200000
 
 UPDATE sunshine_table 
-SET salary_bin='$500,000 to %999,999'
+SET salary_bin='$500,000 to $999,999'
 WHERE salary_paid >=500000
 
 UPDATE sunshine_table 
@@ -172,9 +172,12 @@ SET salary_bin='>$1Million'
 WHERE salary_paid >=1000000
 
 --check that all salary bins have been populated
-SELECT *
+SELECT salary_bin, COUNT(INDEX)
 FROM sunshine_table
-WHERE salary_bin is NULL
+-- WHERE year='2019'
+GROUP BY salary_bin
+ORDER BY salary_bin
+
 
 
 
