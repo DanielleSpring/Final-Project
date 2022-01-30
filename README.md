@@ -249,7 +249,7 @@ To be presented in future segments.
 ## **References: Related Projects/Resources Used**
 
 ### Initial gender identification machine learning
-![GeeksforGeeks Article](https://www.geeksforgeeks.org/python-gender-identification-by-name-using-nltk/)
+Geeks for Geeks article ![python-gender-identification-by-name-using-nltk](https://www.geeksforgeeks.org/python-gender-identification-by-name-using-nltk/)
 
 ### Consolidated SunShine List (raw data)
 Sahid Veliji for creating consolidated historical sunshine list (1996-2019)  and posting to kaggle.com ![The Ontario Sunshine List](https://www.kaggle.com/sahidvelji/the-ontario-sunshine-list)
