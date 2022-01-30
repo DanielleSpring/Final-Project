@@ -166,6 +166,9 @@ Initial classification using Natural Language Toolkit (NLTK), a Python library t
 For this segment we have used a library installed that will automatically import two text files, ‘male.txt’ and ‘female.txt’ which contain a large list of male and female names respectively. 
 *Note: This is only used as dummy data for segment 1. We will seek other name sources such as the US Social Security Bureau Data to further train our model prior to predicting gender from the sunshine list.
 
+### Preliminary Feature Engineering/Selection and Decision-Making Process:
+
+
 ### Splitting Data Into Testing & Training sets:
 A labelled class list is created using the following code:
 
@@ -178,6 +181,18 @@ From there, we instantiate a naive Bayes classification model (classifier) and t
 Lastly, a basic accuracy score is generated for evaluating the model.
 
 ![Accuracy_InitialModel](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Images/Accuracy_InitialModel.png)
+
+
+###  Model Choice
+
+
+#### Limitations
+
+
+#### Benefits
+
+
+
 
 ## **Dashboard:**
 We will use Tableau to create our Dashboard and use HeroKu to host it. It will be directly tied to our PostgreSQL and MongoDb database and linked to our project website.
