@@ -144,11 +144,15 @@ CSV files from various sources were used create our database. Sources and links 
 
 #### 2) Transfrom
 
+The Sunshhine list is an annualizd publication of all Ontario public employees with salaraies >= $100,000. This list is a amalgamation of several sectors over a multitude of employers. Given the 25 year span of data and inconsistent approach to data entry of fields being reported on, the consolidated Sunshine List for years 1996 to 2020 requires significant cleansing on various fields for the benefit of clean dashboard visualizations. Detailed steps on data preprocessing for the purpose of analysis can be found in the Data Cleansing Procedure documentation.  
+
+*insert link to Data Cleansing.md*
+
 #### 3) Load
 ##### **Database:**
-For our database, we will be using both PostgreSQL and MongoDB.  We will be hosting our raw data using Heroku. This enables anyone with the access codes to work the project data. 
+For our database, we will be using both PostgreSQL, which will be hosted on AWS. This enables anyone with the access codes to work the project data. 
 
-
+NOTE: for the purpose of segment 2 submission, the tableau dashboard will be linked to CSV files to create the data model.  The database will be migrated to AWS in segment 3.
 
 ###### PostgreSQL Database
 The image below represents the tables of data that are uploaded onto the database in Postgres. The entity relational diagram allowed for easier joining of tables with SQL and was a helpful reference while importing data into the database.
@@ -195,13 +199,9 @@ Pending data analysis, some preliminary thoughts on how our dashboard will be pr
 
 - Salary trending (bubble chart layered onto map of Ontario)
 
-- Sunshine List Tweets: Sentiment Analysis
-  - top twitter comments
-  - postive vs negative
-
 - Gender Gap, Roles, Trends
 
-Below is a preliminary view of how the dashboard story will look like.
+Below is a preliminary blueprint of what the dashboard will look like.
 
 ![dashboard](https://user-images.githubusercontent.com/88908758/151651653-2a693df4-04d9-4787-b28e-d253c8bd6b8b.PNG)
 
@@ -210,7 +210,7 @@ Below is a preliminary view of how the dashboard story will look like.
 To be presented in future segments.
 
 
-## **Recommendations for Future Analysis:**
+## **Recommendations for Future Analysis/ Parking Lot items due to time and resource constraints:**
 - Predict age for everyone on the sunshine list using machine learning techniques.
 - Conduct a sentimental analysis on twitter feeds using machine learning to identify relavence of the sunshine list and having a positive or negative impact.
 - Webscrapping to the sunshine list website in order to have the updated list every year.
