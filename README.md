@@ -51,8 +51,6 @@ Given the data available, can we use 25 years of data to determine whether the O
 - When creating ranges for salaries which sectors are highest in pay and which are lowest?
 - Which job titles are paid higher salary/lowest? 
 - When comparing job titles in certain sectors to others are they fairly equivalent or are certain sectors more generous?
-- How do people feel about the Sunshine list?
-- Can we analyze public sentiment concerning the sunshine list?
 - Which top-earning positions or person’s have continued to receive generous raises while lower seniority roles may have endured wages freezes and cutbacks?
 - How many of the top earners are women?
 
@@ -77,6 +75,12 @@ Given the data available, can we use 25 years of data to determine whether the O
 | Data Analysis | *To be added in* |
 | Machine Learning code and output | [Link to ML model](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/DataBootcampCapstoneProjectMachineLearningModel-Ben.ipynb)   |
 
+### Changes from Seg1 submission to Seg2 submission
+The following aspects of the original project scope have been placed in our parking lot due to insufficient resources for time allotted.
+- twitter sentiment analysis
+- age prediction based on first name
+- hosting has been switched from Heroku to AWS
+      
 
 ## **Technologies & Tools Used:**
 
@@ -120,32 +124,17 @@ Stats Canada - Employee wages by occupation, annual: https://www150.statcan.gc.c
 
 Stats Canada - inflation: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810025601
 
-Twitter: https://developer.twitter.com/en/products/twitter-api
 
 #### 2) Transfrom
 
-In order to import the cleansed CSV files in PostgreSQL, you must do the following steps:
-
-- Use the raw csv files listed below for table imports .
-- Manually import tables with the following defaults:
-
-<img width="500" alt="sql_import" src="https://user-images.githubusercontent.com/88908758/149667958-aceeac3c-487c-4310-9117-63a92f85d96a.PNG">
 
 ##### **Sunshine List**
 
-2020 dataset to be used in later segments: 
-* Links to raw csv files:
+| Data |raw data CSV |
+|----|----|
+| Kaggle consoidated 1996-2019 | [Sunshine 1996-2019 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/SunShine.csv) |
+| Ontario Sunshine List 2020 | [Sunshine List 2020 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv) |
 
-[Sunshine List 2020 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/Sunshine-2020-en-utf-8-2022-01-10.csv)  
-
-For dummy data currently only using the dataset from kaggle with the consolidated 1996-2019:
-
-[Sunshine 1996-2019 raw data](https://github.com/DanielleSpring/Final-Project-SunshineList/blob/main/Raw%20Data%20CSV%20files/SunShine.csv)
-
-
-Data cleansing process: 
-
-* To be added in later segments.
  
 ##### **Ontario Wages - Stats Canada**
 * Links to raw csv files:
