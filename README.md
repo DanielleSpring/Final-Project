@@ -158,7 +158,7 @@ The image below represents the tables of data that are uploaded onto the databas
 
 ## **Machine Learning: Gender Identification**
 ### Overall ML module Objective:
-Machine learning tools will be used to predict gender and potentially age for the list of names in the sunshine list. This process is essential for the analysis and outputs/recommendations.
+Machine learning tools will be used to predict gender for the list of names in the sunshine list. This process is essential for the analysis and outputs/recommendations.
 
 ### Preliminary Data Processing:
 Initial classification using Natural Language Toolkit (NLTK), a Python library that used supervised classification, is done to determine a gender class (output) for each input (given name).
