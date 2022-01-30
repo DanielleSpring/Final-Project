@@ -165,7 +165,7 @@ Machine learning tools will be used to predict gender for the list of names in t
 Initial classification using Natural Language Toolkit (NLTK), a Python library that used supervised classification, is done to determine a gender class (output) for each input (given name).
 
 For this segment we have used a library installed that will automatically import two text files, ‘male.txt’ and ‘female.txt’ which contain a large list of male and female names respectively. 
-*Note: This is only used as dummy data for segment 1. We will seek other name sources such as the US Social Security Bureau Data to further train our model prior to predicting gender from the sunshine list.
+
 
 ### Preliminary Feature Engineering/Selection and Decision-Making Process:
 
