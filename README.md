@@ -197,7 +197,9 @@ Our model has used two types of machine learning: Relative frequency classifier 
 
 
 ## **Dashboard:**
-We will use Tableau to create our Dashboard and use HeroKu to host it. It will be directly tied to our PostgreSQL and MongoDb database and linked to our project website.
+We will use Tableau to create our Dashboard, which will be hosted on AWS. for the purpose of segement 2 sumbission, we will have our draft Dashboard data model built using CSV file exports from our SQL database.  Below is a preliminary blueprint of what the dashboard will look like.
+
+![dashboard](https://user-images.githubusercontent.com/88908758/151651653-2a693df4-04d9-4787-b28e-d253c8bd6b8b.PNG)
 
 Pending data analysis, some preliminary thoughts on how our dashboard will be presented are listed below: 
 
@@ -210,10 +212,6 @@ Pending data analysis, some preliminary thoughts on how our dashboard will be pr
 - Salary trending (bubble chart layered onto map of Ontario)
 
 - Gender Gap, Roles, Trends
-
-Below is a preliminary blueprint of what the dashboard will look like.
-
-![dashboard](https://user-images.githubusercontent.com/88908758/151651653-2a693df4-04d9-4787-b28e-d253c8bd6b8b.PNG)
 
 
 ### **Data Analysis Phase:**
