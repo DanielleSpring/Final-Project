@@ -108,7 +108,7 @@ The following aspects of the original project scope have been placed in our park
 * Bootstrap
 
 
-### Algorithems:
+### Algorithms:
 * to be updated in next segment
 
 
