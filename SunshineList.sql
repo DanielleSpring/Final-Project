@@ -148,12 +148,21 @@ AVG(salary_paid) AS avgS,
 FROM sunshine_table
 WHERE year=2020;
 
+
 -- STEP 6
 --Update Column for Salary Bins based on salary_paid using python Analysis file for bin sizes
---Bins 100K-130K, 130K-200K, 200K-500K, 500K-1M, >1M
-UPDATE sunshine_table 
-SET salary_bin='$100000 to $129999'
+--Bins <105K, 105K-110K, 110K-130K, 130K-200K, 200K-500K, 500K-1M, >1M
+UPDATE sunshine_table
+SET salary_bin ='$110,000 to $129,999'
 WHERE salary_paid<130000
+
+UPDATE sunshine_table 
+SET salary_bin='$105,000 to $109,999'
+WHERE salary_paid<110000
+
+UPDATE sunshine_table 
+SET salary_bin='$100,000 to $104,999'
+WHERE salary_paid<105000
 
 UPDATE sunshine_table 
 SET salary_bin='$130,000 to $199,999'
@@ -171,24 +180,41 @@ UPDATE sunshine_table
 SET salary_bin='>$1Million'
 WHERE salary_paid >=1000000
 
---check that all salary bins have been populated
+--review single year for breakdown
 SELECT salary_bin, COUNT(INDEX)
 FROM sunshine_table
--- WHERE year='2019'
+-- WHERE year='2020'
 GROUP BY salary_bin
 ORDER BY salary_bin
 
+--total for single year for comparison
+SELECT COUNT(INDEX)
+FROM sunshine_table
+-- WHERE year='2020'
+
+SELECT * FROM sunshine_table
+
+
+--reivew salary bins
+SELECT salary_bin, COUNT(salary_bin)
+FROM sunshine_table
+-- WHERE year=2020
+GROUP BY salary_bin
 
 
 
--- --Show the salary_paid in 5 equal width bins
--- SELECT * FROM sunshine_table
--- salary_paid = pd.cut(sunshine_table.salary_paid, 5)
--- salary_paid.value_counts()
--- pd.crosstab(sunshine_table.salary_paid, 
+SELECT *
+FROM sunshine_table
+WHERE salary_paid IS NULL
+
+-- --Show the salary_paid in 5 equal width bins...need to download pgcharts project
+-- SELECT COUNT(salary_bin)
+-- FROM sunshine_table
+-- pd.crosstab(sunshine_table.salary_bin, 
 --             columns = 'Count').plot(kind = 'bar', 
---                                     legend = False,
---                                     title = 'Salary Paid')
+--                                      legend = False,
+--                                      title = 'Salary Paid')
+
 -- plt.show()
 
 
@@ -284,3 +310,6 @@ GROUP BY last_first_name
 ORDER BY(COUNT(*)) DESC;
 
 
+
+-- --Total record count
+-- SELECT COUNT(*) FROM sunshine_table
