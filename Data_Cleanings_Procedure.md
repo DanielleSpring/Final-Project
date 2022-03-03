@@ -5,9 +5,10 @@
 ## **Statistics Canada CPI**
 The data from Statics Canada is clean. For the purpose of analysis, only the Product Group 'All-items' was kept.  All other groups were removed from the dataframe prior to import into the SQL table.
 
+What is the Canadian CPI [Refer to: An Overview of Canada's Consumer Price Index (CPI)](https://www150.statcan.gc.ca/eng/sc/video/cpi)
+
 <img width="800" alt="CPI" src="https://user-images.githubusercontent.com/89538802/151232562-968cbbde-1405-4053-bf81-d446a140fdb7.PNG">
 
-What is the Canadian CPI [Refer to: An Overview of Canada's Consumer Price Index (CPI)](https://www150.statcan.gc.ca/eng/sc/video/cpi)
 
 ## **Statistics Canada Ontario Wage Data**
 The data from  Statics Canada for wages in Ontario by National Occupational Classification (NOC) allowed the user to add additional filters for gender and age categories.  4 files were extracted via CSV and required consolidation into 1 DataFrame
