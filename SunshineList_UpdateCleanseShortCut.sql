@@ -6,6 +6,11 @@ SET gender=f.gender
 FROM sunshine_unique_first_name as f
 WHERE f.first_name=s.first_name;
 
+--Update Dominique Miniere to Male not Female
+UPDATE sunshine_table 
+SET gender='M'
+WHERE last_first_name LIKE '%Miniere_Dominique%' AND employer='%Hydro/OPG%'
+
 --Create Male & Female counter column -- to assist in chart/parameter creation in tableau
 ALTER TABLE sunshine_table
 ADD Male_Count INT,

@@ -370,3 +370,15 @@ FROM sunshine_table
 WHERE year = 2020 and salary_paid >=500000
 GROUP BY job_title
 ORDER BY COUNT(*)DESC;
+
+--Review Dominique Miniere gender correction
+SELECT *
+FROM sunshine_table
+WHERE last_first_name LIKE '%Miniere_Dominique%'
+
+UPDATE sunshine_table 
+SET
+Female_Count = CASE WHEN gender='M' THEN 0 ELSE 1 END;
+
+SELECT *
+FROM sunshine_table
